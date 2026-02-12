@@ -1,0 +1,114 @@
+
+{
+	"recordings" : 
+	[
+		
+		{
+			"observerid" : "am2442",
+			"trial" : 
+			{
+				"amplitude" : 0.4000000059604645,
+				"class" : "SinusoidExperimentTrial",
+				"dir_x" : 1.0,
+				"dir_y" : 0.0,
+				"duration" : 15.0,
+				"frequency" : 0.2000000029802322,
+				"id" : 6,
+				"refreshRate" : 82.50
+			}
+		},
+		
+		{
+			"observerid" : "am2442",
+			"trial" : 
+			{
+				"amplitude" : 0.4000000059604645,
+				"class" : "SinusoidExperimentTrial",
+				"dir_x" : 1.0,
+				"dir_y" : 0.0,
+				"duration" : 15.0,
+				"frequency" : 0.2000000029802322,
+				"id" : 0,
+				"refreshRate" : 165.0
+			}
+		},
+		
+		{
+			"observerid" : "am2442",
+			"trial" : 
+			{
+				"amplitude" : 0.4000000059604645,
+				"class" : "SinusoidExperimentTrial",
+				"dir_x" : 1.0,
+				"dir_y" : 0.0,
+				"duration" : 15.0,
+				"frequency" : 0.2000000029802322,
+				"id" : 12,
+				"refreshRate" : 55.0
+			}
+		},
+		
+		{
+			"observerid" : "am2442",
+			"trial" : 
+			{
+				"amplitudes" : [ 2.0, 2.0, 2.0, 2.0, 2.0, 0.2000000029802322, 0.2000000029802322 ],
+				"class" : "SumSinusoidsExperimentTrial",
+				"duration" : 15.0,
+				"frequencies" : 
+				[
+					0.1000000014901161,
+					0.1400000005960464,
+					0.2399999946355820,
+					0.4099999964237213,
+					0.7400000095367432,
+					1.279999971389771,
+					2.190000057220459
+				],
+				"gain" : 0.04600000008940697,
+				"id" : 9,
+				"phases" : 
+				[
+					0.8765079975128174,
+					-0.3369553089141846,
+					-2.083358764648438,
+					-1.709137797355652,
+					-0.7431821823120117,
+					-1.198560118675232,
+					2.972630739212036
+				],
+				"refreshRate" : 82.50
+			}
+		},
+		
+		{
+			"observerid" : "am2442",
+			"trial" : 
+			{
+				"amplitude" : 0.4000000059604645,
+				"class" : "SinusoidExperimentTrial",
+				"dir_x" : 1.0,
+				"dir_y" : 0.0,
+				"duration" : 15.0,
+				"frequency" : 0.2000000029802322,
+				"id" : 16,
+				"refreshRate" : 55.0
+			}
+		},
+		
+		{
+			"observerid" : "am2442",
+			"trial" : 
+			{
+				"amplitude" : 0.4000000059604645,
+				"class" : "SinusoidExperimentTrial",
+				"dir_x" : 1.0,
+				"dir_y" : 0.0,
+				"duration" : 15.0,
+				"frequency" : 0.2000000029802322,
+				"id" : 14,
+				"refreshRate" : 55.0
+			}
+		}
+	]
+}

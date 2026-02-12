@@ -1,0 +1,1 @@
+{"stimuli":{"class":"PANORAMA","duration":20,"param":"stistvan","motion":{"class":"SumSinusoidsMotion","gain":0.024,"frequencies":[0.1,0.14,0.24,0.41,0.74,1.28,2.19],"amplitudes":[2,2,2,2,2,0.2,0.2],"phases":[0,0,0,0,0,0,0]},"id":0},"name":"Validation2"}

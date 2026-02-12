@@ -1,0 +1,11 @@
+exp_id,stimulus_1,stimulus_2,frequency_1,frequency_2,chose_1,chose_2
+dy2_fin,1,2,55,50,1,0
+dy2_fin,1,2,65,60,1,0
+dy2_fin,1,2,55,85,0,1
+dy2_fin,1,2,60,115,0,1
+dy2_fin,1,2,65,55,0,1
+dy2_fin,1,2,140,110,1,0
+dy2_fin,1,2,50,65,0,1
+dy2_fin,1,2,70,70,0,1
+dy2_fin,1,2,140,140,0,1
+dy2_fin,1,2,95,65,1,0

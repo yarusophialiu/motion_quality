@@ -1,0 +1,4218 @@
+
+{
+	"recordings" : 
+	[
+		
+		{
+			"observerid" : "if1",
+			"pickedConditionIndex" : 1,
+			"trial" : 
+			{
+				"class" : "SBSTrial",
+				"conditions" : 
+				[
+					
+					{
+						"scene" : "ET_TARGET",
+						"technique" : "blurhrr"
+					},
+					
+					{
+						"scene" : "ET_TARGET",
+						"technique" : "halfrr"
+					}
+				],
+				"duration" : 20.0,
+				"id" : 59,
+				"motion" : 
+				{
+					"amplitudes" : [ 2.0, 2.0, 2.0, 2.0, 2.0, 0.2000000029802322, 0.2000000029802322 ],
+					"class" : "SumSinusoidsMotion",
+					"frequencies" : 
+					[
+						0.1000000014901161,
+						0.1400000005960464,
+						0.2399999946355820,
+						0.4099999964237213,
+						0.7400000095367432,
+						1.279999971389771,
+						2.190000057220459
+					],
+					"gain" : 0.04600000008940697,
+					"phases" : 
+					[
+						0.05855941772460938,
+						-0.05925679206848145,
+						-0.6031036376953125,
+						2.473143815994263,
+						0.7626409530639648,
+						-0.1019322872161865,
+						-1.949521183967590
+					]
+				},
+				"refreshRate" : 144.0
+			}
+		},
+		
+		{
+			"observerid" : "if1",
+			"pickedConditionIndex" : 0,
+			"trial" : 
+			{
+				"class" : "SBSTrial",
+				"conditions" : 
+				[
+					
+					{
+						"scene" : "DISCS",
+						"technique" : "full"
+					},
+					
+					{
+						"scene" : "DISCS",
+						"technique" : "blurhrr"
+					}
+				],
+				"duration" : 20.0,
+				"id" : 25,
+				"motion" : 
+				{
+					"amplitude" : 0.4000000059604645,
+					"class" : "SinusoidMotion",
+					"dir_x" : 1.0,
+					"dir_y" : 0.0,
+					"frequency" : 0.2000000029802322
+				},
+				"refreshRate" : 100.0
+			}
+		},
+		
+		{
+			"observerid" : "if1",
+			"pickedConditionIndex" : 1,
+			"trial" : 
+			{
+				"class" : "SBSTrial",
+				"conditions" : 
+				[
+					
+					{
+						"scene" : "ET_TARGET",
+						"technique" : "blurhrr"
+					},
+					
+					{
+						"scene" : "ET_TARGET",
+						"technique" : "halfrr"
+					}
+				],
+				"duration" : 20.0,
+				"id" : 5,
+				"motion" : 
+				{
+					"amplitudes" : [ 2.0, 2.0, 2.0, 2.0, 2.0, 0.2000000029802322, 0.2000000029802322 ],
+					"class" : "SumSinusoidsMotion",
+					"frequencies" : 
+					[
+						0.1000000014901161,
+						0.1400000005960464,
+						0.2399999946355820,
+						0.4099999964237213,
+						0.7400000095367432,
+						1.279999971389771,
+						2.190000057220459
+					],
+					"gain" : 0.04600000008940697,
+					"phases" : 
+					[
+						2.139655351638794,
+						-2.389750957489014,
+						1.808572530746460,
+						-2.827525854110718,
+						0.9280855655670166,
+						-0.8790400028228760,
+						-2.581729412078857
+					]
+				},
+				"refreshRate" : 100.0
+			}
+		},
+		
+		{
+			"observerid" : "if1",
+			"pickedConditionIndex" : 0,
+			"trial" : 
+			{
+				"class" : "SBSTrial",
+				"conditions" : 
+				[
+					
+					{
+						"scene" : "DISCS",
+						"technique" : "full"
+					},
+					
+					{
+						"scene" : "DISCS",
+						"technique" : "blurhrr"
+					}
+				],
+				"duration" : 20.0,
+				"id" : 106,
+				"motion" : 
+				{
+					"amplitude" : 0.4000000059604645,
+					"class" : "SinusoidMotion",
+					"dir_x" : 1.0,
+					"dir_y" : 0.0,
+					"frequency" : 0.2000000029802322
+				},
+				"refreshRate" : 165.0
+			}
+		},
+		
+		{
+			"observerid" : "if1",
+			"pickedConditionIndex" : 0,
+			"trial" : 
+			{
+				"class" : "SBSTrial",
+				"conditions" : 
+				[
+					
+					{
+						"scene" : "DISCS",
+						"technique" : "full"
+					},
+					
+					{
+						"scene" : "DISCS",
+						"technique" : "halfrr"
+					}
+				],
+				"duration" : 20.0,
+				"id" : 87,
+				"motion" : 
+				{
+					"amplitude" : 0.4000000059604645,
+					"class" : "SinusoidMotion",
+					"dir_x" : 1.0,
+					"dir_y" : 0.0,
+					"frequency" : 0.2000000029802322
+				},
+				"refreshRate" : 165.0
+			}
+		},
+		
+		{
+			"observerid" : "if1",
+			"pickedConditionIndex" : 0,
+			"trial" : 
+			{
+				"class" : "SBSTrial",
+				"conditions" : 
+				[
+					
+					{
+						"scene" : "ET_TARGET",
+						"technique" : "full"
+					},
+					
+					{
+						"scene" : "ET_TARGET",
+						"technique" : "halfrr"
+					}
+				],
+				"duration" : 20.0,
+				"id" : 63,
+				"motion" : 
+				{
+					"amplitude" : 0.4000000059604645,
+					"class" : "SinusoidMotion",
+					"dir_x" : 1.0,
+					"dir_y" : 0.0,
+					"frequency" : 0.2000000029802322
+				},
+				"refreshRate" : 144.0
+			}
+		},
+		
+		{
+			"observerid" : "if1",
+			"pickedConditionIndex" : 0,
+			"trial" : 
+			{
+				"class" : "SBSTrial",
+				"conditions" : 
+				[
+					
+					{
+						"scene" : "DISCS",
+						"technique" : "full"
+					},
+					
+					{
+						"scene" : "DISCS",
+						"technique" : "halfrr"
+					}
+				],
+				"duration" : 20.0,
+				"id" : 60,
+				"motion" : 
+				{
+					"amplitude" : 0.4000000059604645,
+					"class" : "SinusoidMotion",
+					"dir_x" : 1.0,
+					"dir_y" : 0.0,
+					"frequency" : 0.2000000029802322
+				},
+				"refreshRate" : 144.0
+			}
+		},
+		
+		{
+			"observerid" : "if1",
+			"pickedConditionIndex" : 0,
+			"trial" : 
+			{
+				"class" : "SBSTrial",
+				"conditions" : 
+				[
+					
+					{
+						"scene" : "DISCS",
+						"technique" : "full"
+					},
+					
+					{
+						"scene" : "DISCS",
+						"technique" : "halfrr"
+					}
+				],
+				"duration" : 20.0,
+				"id" : 33,
+				"motion" : 
+				{
+					"amplitude" : 0.4000000059604645,
+					"class" : "SinusoidMotion",
+					"dir_x" : 1.0,
+					"dir_y" : 0.0,
+					"frequency" : 0.2000000029802322
+				},
+				"refreshRate" : 120.0
+			}
+		},
+		
+		{
+			"observerid" : "if1",
+			"pickedConditionIndex" : 0,
+			"trial" : 
+			{
+				"class" : "SBSTrial",
+				"conditions" : 
+				[
+					
+					{
+						"scene" : "ET_TARGET",
+						"technique" : "full"
+					},
+					
+					{
+						"scene" : "ET_TARGET",
+						"technique" : "blurhrr"
+					}
+				],
+				"duration" : 20.0,
+				"id" : 10,
+				"motion" : 
+				{
+					"amplitude" : 0.4000000059604645,
+					"class" : "SinusoidMotion",
+					"dir_x" : 1.0,
+					"dir_y" : 0.0,
+					"frequency" : 0.2000000029802322
+				},
+				"refreshRate" : 100.0
+			}
+		},
+		
+		{
+			"observerid" : "if1",
+			"pickedConditionIndex" : 0,
+			"trial" : 
+			{
+				"class" : "SBSTrial",
+				"conditions" : 
+				[
+					
+					{
+						"scene" : "ET_TARGET",
+						"technique" : "full"
+					},
+					
+					{
+						"scene" : "ET_TARGET",
+						"technique" : "halfrr"
+					}
+				],
+				"duration" : 20.0,
+				"id" : 57,
+				"motion" : 
+				{
+					"amplitudes" : [ 2.0, 2.0, 2.0, 2.0, 2.0, 0.2000000029802322, 0.2000000029802322 ],
+					"class" : "SumSinusoidsMotion",
+					"frequencies" : 
+					[
+						0.1000000014901161,
+						0.1400000005960464,
+						0.2399999946355820,
+						0.4099999964237213,
+						0.7400000095367432,
+						1.279999971389771,
+						2.190000057220459
+					],
+					"gain" : 0.04600000008940697,
+					"phases" : 
+					[
+						-1.235994219779968,
+						1.560771703720093,
+						1.995705366134644,
+						0.6893014907836914,
+						-0.616555929183960,
+						2.767122983932495,
+						0.3554573059082031
+					]
+				},
+				"refreshRate" : 144.0
+			}
+		},
+		
+		{
+			"observerid" : "if1",
+			"pickedConditionIndex" : 1,
+			"trial" : 
+			{
+				"class" : "SBSTrial",
+				"conditions" : 
+				[
+					
+					{
+						"scene" : "DISCS",
+						"technique" : "blurhrr"
+					},
+					
+					{
+						"scene" : "DISCS",
+						"technique" : "halfrr"
+					}
+				],
+				"duration" : 20.0,
+				"id" : 71,
+				"motion" : 
+				{
+					"amplitude" : 0.4000000059604645,
+					"class" : "SinusoidMotion",
+					"dir_x" : 1.0,
+					"dir_y" : 0.0,
+					"frequency" : 0.2000000029802322
+				},
+				"refreshRate" : 144.0
+			}
+		},
+		
+		{
+			"observerid" : "if1",
+			"pickedConditionIndex" : 0,
+			"trial" : 
+			{
+				"class" : "SBSTrial",
+				"conditions" : 
+				[
+					
+					{
+						"scene" : "ET_TARGET",
+						"technique" : "full"
+					},
+					
+					{
+						"scene" : "ET_TARGET",
+						"technique" : "blurhrr"
+					}
+				],
+				"duration" : 20.0,
+				"id" : 73,
+				"motion" : 
+				{
+					"amplitude" : 0.4000000059604645,
+					"class" : "SinusoidMotion",
+					"dir_x" : 1.0,
+					"dir_y" : 0.0,
+					"frequency" : 0.2000000029802322
+				},
+				"refreshRate" : 144.0
+			}
+		},
+		
+		{
+			"observerid" : "if1",
+			"pickedConditionIndex" : 0,
+			"trial" : 
+			{
+				"class" : "SBSTrial",
+				"conditions" : 
+				[
+					
+					{
+						"scene" : "DISCS",
+						"technique" : "full"
+					},
+					
+					{
+						"scene" : "DISCS",
+						"technique" : "blurhrr"
+					}
+				],
+				"duration" : 20.0,
+				"id" : 70,
+				"motion" : 
+				{
+					"amplitude" : 0.4000000059604645,
+					"class" : "SinusoidMotion",
+					"dir_x" : 1.0,
+					"dir_y" : 0.0,
+					"frequency" : 0.2000000029802322
+				},
+				"refreshRate" : 144.0
+			}
+		},
+		
+		{
+			"observerid" : "if1",
+			"pickedConditionIndex" : 1,
+			"trial" : 
+			{
+				"class" : "SBSTrial",
+				"conditions" : 
+				[
+					
+					{
+						"scene" : "ET_TARGET",
+						"technique" : "blurhrr"
+					},
+					
+					{
+						"scene" : "ET_TARGET",
+						"technique" : "halfrr"
+					}
+				],
+				"duration" : 20.0,
+				"id" : 38,
+				"motion" : 
+				{
+					"amplitude" : 0.4000000059604645,
+					"class" : "SinusoidMotion",
+					"dir_x" : 1.0,
+					"dir_y" : 0.0,
+					"frequency" : 0.2000000029802322
+				},
+				"refreshRate" : 120.0
+			}
+		},
+		
+		{
+			"observerid" : "if1",
+			"pickedConditionIndex" : 0,
+			"trial" : 
+			{
+				"class" : "SBSTrial",
+				"conditions" : 
+				[
+					
+					{
+						"scene" : "ET_TARGET",
+						"technique" : "full"
+					},
+					
+					{
+						"scene" : "ET_TARGET",
+						"technique" : "blurhrr"
+					}
+				],
+				"duration" : 20.0,
+				"id" : 1,
+				"motion" : 
+				{
+					"amplitude" : 0.4000000059604645,
+					"class" : "SinusoidMotion",
+					"dir_x" : 1.0,
+					"dir_y" : 0.0,
+					"frequency" : 0.2000000029802322
+				},
+				"refreshRate" : 100.0
+			}
+		},
+		
+		{
+			"observerid" : "if1",
+			"pickedConditionIndex" : 0,
+			"trial" : 
+			{
+				"class" : "SBSTrial",
+				"conditions" : 
+				[
+					
+					{
+						"scene" : "DISCS",
+						"technique" : "full"
+					},
+					
+					{
+						"scene" : "DISCS",
+						"technique" : "blurhrr"
+					}
+				],
+				"duration" : 20.0,
+				"id" : 34,
+				"motion" : 
+				{
+					"amplitude" : 0.4000000059604645,
+					"class" : "SinusoidMotion",
+					"dir_x" : 1.0,
+					"dir_y" : 0.0,
+					"frequency" : 0.2000000029802322
+				},
+				"refreshRate" : 120.0
+			}
+		},
+		
+		{
+			"observerid" : "if1",
+			"pickedConditionIndex" : 0,
+			"trial" : 
+			{
+				"class" : "SBSTrial",
+				"conditions" : 
+				[
+					
+					{
+						"scene" : "ET_TARGET",
+						"technique" : "full"
+					},
+					
+					{
+						"scene" : "ET_TARGET",
+						"technique" : "blurhrr"
+					}
+				],
+				"duration" : 20.0,
+				"id" : 31,
+				"motion" : 
+				{
+					"amplitudes" : [ 2.0, 2.0, 2.0, 2.0, 2.0, 0.2000000029802322, 0.2000000029802322 ],
+					"class" : "SumSinusoidsMotion",
+					"frequencies" : 
+					[
+						0.1000000014901161,
+						0.1400000005960464,
+						0.2399999946355820,
+						0.4099999964237213,
+						0.7400000095367432,
+						1.279999971389771,
+						2.190000057220459
+					],
+					"gain" : 0.04600000008940697,
+					"phases" : 
+					[
+						1.905793428421021,
+						-2.147931337356567,
+						0.7508652210235596,
+						1.956929445266724,
+						1.290233850479126,
+						-0.8252363204956055,
+						0.113382101058960
+					]
+				},
+				"refreshRate" : 120.0
+			}
+		},
+		
+		{
+			"observerid" : "if1",
+			"pickedConditionIndex" : 0,
+			"trial" : 
+			{
+				"class" : "SBSTrial",
+				"conditions" : 
+				[
+					
+					{
+						"scene" : "ET_TARGET",
+						"technique" : "full"
+					},
+					
+					{
+						"scene" : "ET_TARGET",
+						"technique" : "blurhrr"
+					}
+				],
+				"duration" : 20.0,
+				"id" : 85,
+				"motion" : 
+				{
+					"amplitudes" : [ 2.0, 2.0, 2.0, 2.0, 2.0, 0.2000000029802322, 0.2000000029802322 ],
+					"class" : "SumSinusoidsMotion",
+					"frequencies" : 
+					[
+						0.1000000014901161,
+						0.1400000005960464,
+						0.2399999946355820,
+						0.4099999964237213,
+						0.7400000095367432,
+						1.279999971389771,
+						2.190000057220459
+					],
+					"gain" : 0.04600000008940697,
+					"phases" : 
+					[
+						-0.2262887954711914,
+						2.543202638626099,
+						-0.7958636283874512,
+						2.961507081985474,
+						-3.115155935287476,
+						2.991262674331665,
+						-2.204550266265869
+					]
+				},
+				"refreshRate" : 165.0
+			}
+		},
+		
+		{
+			"observerid" : "if1",
+			"pickedConditionIndex" : 0,
+			"trial" : 
+			{
+				"class" : "SBSTrial",
+				"conditions" : 
+				[
+					
+					{
+						"scene" : "ET_TARGET",
+						"technique" : "full"
+					},
+					
+					{
+						"scene" : "ET_TARGET",
+						"technique" : "halfrr"
+					}
+				],
+				"duration" : 20.0,
+				"id" : 3,
+				"motion" : 
+				{
+					"amplitudes" : [ 2.0, 2.0, 2.0, 2.0, 2.0, 0.2000000029802322, 0.2000000029802322 ],
+					"class" : "SumSinusoidsMotion",
+					"frequencies" : 
+					[
+						0.1000000014901161,
+						0.1400000005960464,
+						0.2399999946355820,
+						0.4099999964237213,
+						0.7400000095367432,
+						1.279999971389771,
+						2.190000057220459
+					],
+					"gain" : 0.04600000008940697,
+					"phases" : 
+					[
+						-2.295455455780029,
+						-0.1465032100677490,
+						2.600520849227905,
+						-0.9959330558776855,
+						3.003655672073364,
+						-2.518266201019287,
+						-0.7773604393005371
+					]
+				},
+				"refreshRate" : 100.0
+			}
+		},
+		
+		{
+			"observerid" : "if1",
+			"pickedConditionIndex" : 0,
+			"trial" : 
+			{
+				"class" : "SBSTrial",
+				"conditions" : 
+				[
+					
+					{
+						"scene" : "ET_TARGET",
+						"technique" : "full"
+					},
+					
+					{
+						"scene" : "ET_TARGET",
+						"technique" : "blurhrr"
+					}
+				],
+				"duration" : 20.0,
+				"id" : 55,
+				"motion" : 
+				{
+					"amplitude" : 0.4000000059604645,
+					"class" : "SinusoidMotion",
+					"dir_x" : 1.0,
+					"dir_y" : 0.0,
+					"frequency" : 0.2000000029802322
+				},
+				"refreshRate" : 144.0
+			}
+		},
+		
+		{
+			"observerid" : "if1",
+			"pickedConditionIndex" : 1,
+			"trial" : 
+			{
+				"class" : "SBSTrial",
+				"conditions" : 
+				[
+					
+					{
+						"scene" : "DISCS",
+						"technique" : "blurhrr"
+					},
+					
+					{
+						"scene" : "DISCS",
+						"technique" : "halfrr"
+					}
+				],
+				"duration" : 20.0,
+				"id" : 89,
+				"motion" : 
+				{
+					"amplitude" : 0.4000000059604645,
+					"class" : "SinusoidMotion",
+					"dir_x" : 1.0,
+					"dir_y" : 0.0,
+					"frequency" : 0.2000000029802322
+				},
+				"refreshRate" : 165.0
+			}
+		},
+		
+		{
+			"observerid" : "if1",
+			"pickedConditionIndex" : 0,
+			"trial" : 
+			{
+				"class" : "SBSTrial",
+				"conditions" : 
+				[
+					
+					{
+						"scene" : "ET_TARGET",
+						"technique" : "blurhrr"
+					},
+					
+					{
+						"scene" : "ET_TARGET",
+						"technique" : "halfrr"
+					}
+				],
+				"duration" : 20.0,
+				"id" : 86,
+				"motion" : 
+				{
+					"amplitudes" : [ 2.0, 2.0, 2.0, 2.0, 2.0, 0.2000000029802322, 0.2000000029802322 ],
+					"class" : "SumSinusoidsMotion",
+					"frequencies" : 
+					[
+						0.1000000014901161,
+						0.1400000005960464,
+						0.2399999946355820,
+						0.4099999964237213,
+						0.7400000095367432,
+						1.279999971389771,
+						2.190000057220459
+					],
+					"gain" : 0.04600000008940697,
+					"phases" : 
+					[
+						2.765115976333618,
+						-2.632862806320190,
+						0.07868456840515137,
+						2.707722425460815,
+						1.849953413009644,
+						-0.2632281780242920,
+						1.409554243087769
+					]
+				},
+				"refreshRate" : 165.0
+			}
+		},
+		
+		{
+			"observerid" : "if1",
+			"pickedConditionIndex" : 0,
+			"trial" : 
+			{
+				"class" : "SBSTrial",
+				"conditions" : 
+				[
+					
+					{
+						"scene" : "DISCS",
+						"technique" : "full"
+					},
+					
+					{
+						"scene" : "DISCS",
+						"technique" : "halfrr"
+					}
+				],
+				"duration" : 20.0,
+				"id" : 6,
+				"motion" : 
+				{
+					"amplitude" : 0.4000000059604645,
+					"class" : "SinusoidMotion",
+					"dir_x" : 1.0,
+					"dir_y" : 0.0,
+					"frequency" : 0.2000000029802322
+				},
+				"refreshRate" : 100.0
+			}
+		},
+		
+		{
+			"observerid" : "if1",
+			"pickedConditionIndex" : 0,
+			"trial" : 
+			{
+				"class" : "SBSTrial",
+				"conditions" : 
+				[
+					
+					{
+						"scene" : "ET_TARGET",
+						"technique" : "blurhrr"
+					},
+					
+					{
+						"scene" : "ET_TARGET",
+						"technique" : "halfrr"
+					}
+				],
+				"duration" : 20.0,
+				"id" : 50,
+				"motion" : 
+				{
+					"amplitudes" : [ 2.0, 2.0, 2.0, 2.0, 2.0, 0.2000000029802322, 0.2000000029802322 ],
+					"class" : "SumSinusoidsMotion",
+					"frequencies" : 
+					[
+						0.1000000014901161,
+						0.1400000005960464,
+						0.2399999946355820,
+						0.4099999964237213,
+						0.7400000095367432,
+						1.279999971389771,
+						2.190000057220459
+					],
+					"gain" : 0.04600000008940697,
+					"phases" : 
+					[
+						0.3019716739654541,
+						0.3200232982635498,
+						-1.480391502380371,
+						-1.563202261924744,
+						1.816572427749634,
+						2.007187604904175,
+						-0.3023502826690674
+					]
+				},
+				"refreshRate" : 120.0
+			}
+		},
+		
+		{
+			"observerid" : "if1",
+			"pickedConditionIndex" : 0,
+			"trial" : 
+			{
+				"class" : "SBSTrial",
+				"conditions" : 
+				[
+					
+					{
+						"scene" : "ET_TARGET",
+						"technique" : "full"
+					},
+					
+					{
+						"scene" : "ET_TARGET",
+						"technique" : "halfrr"
+					}
+				],
+				"duration" : 20.0,
+				"id" : 81,
+				"motion" : 
+				{
+					"amplitude" : 0.4000000059604645,
+					"class" : "SinusoidMotion",
+					"dir_x" : 1.0,
+					"dir_y" : 0.0,
+					"frequency" : 0.2000000029802322
+				},
+				"refreshRate" : 165.0
+			}
+		},
+		
+		{
+			"observerid" : "if1",
+			"pickedConditionIndex" : 0,
+			"trial" : 
+			{
+				"class" : "SBSTrial",
+				"conditions" : 
+				[
+					
+					{
+						"scene" : "ET_TARGET",
+						"technique" : "full"
+					},
+					
+					{
+						"scene" : "ET_TARGET",
+						"technique" : "blurhrr"
+					}
+				],
+				"duration" : 20.0,
+				"id" : 37,
+				"motion" : 
+				{
+					"amplitude" : 0.4000000059604645,
+					"class" : "SinusoidMotion",
+					"dir_x" : 1.0,
+					"dir_y" : 0.0,
+					"frequency" : 0.2000000029802322
+				},
+				"refreshRate" : 120.0
+			}
+		},
+		
+		{
+			"observerid" : "if1",
+			"pickedConditionIndex" : 0,
+			"trial" : 
+			{
+				"class" : "SBSTrial",
+				"conditions" : 
+				[
+					
+					{
+						"scene" : "DISCS",
+						"technique" : "full"
+					},
+					
+					{
+						"scene" : "DISCS",
+						"technique" : "blurhrr"
+					}
+				],
+				"duration" : 20.0,
+				"id" : 88,
+				"motion" : 
+				{
+					"amplitude" : 0.4000000059604645,
+					"class" : "SinusoidMotion",
+					"dir_x" : 1.0,
+					"dir_y" : 0.0,
+					"frequency" : 0.2000000029802322
+				},
+				"refreshRate" : 165.0
+			}
+		},
+		
+		{
+			"observerid" : "if1",
+			"pickedConditionIndex" : 0,
+			"trial" : 
+			{
+				"class" : "SBSTrial",
+				"conditions" : 
+				[
+					
+					{
+						"scene" : "ET_TARGET",
+						"technique" : "blurhrr"
+					},
+					
+					{
+						"scene" : "ET_TARGET",
+						"technique" : "halfrr"
+					}
+				],
+				"duration" : 20.0,
+				"id" : 65,
+				"motion" : 
+				{
+					"amplitude" : 0.4000000059604645,
+					"class" : "SinusoidMotion",
+					"dir_x" : 1.0,
+					"dir_y" : 0.0,
+					"frequency" : 0.2000000029802322
+				},
+				"refreshRate" : 144.0
+			}
+		},
+		
+		{
+			"observerid" : "if1",
+			"pickedConditionIndex" : 0,
+			"trial" : 
+			{
+				"class" : "SBSTrial",
+				"conditions" : 
+				[
+					
+					{
+						"scene" : "DISCS",
+						"technique" : "full"
+					},
+					
+					{
+						"scene" : "DISCS",
+						"technique" : "halfrr"
+					}
+				],
+				"duration" : 20.0,
+				"id" : 15,
+				"motion" : 
+				{
+					"amplitude" : 0.4000000059604645,
+					"class" : "SinusoidMotion",
+					"dir_x" : 1.0,
+					"dir_y" : 0.0,
+					"frequency" : 0.2000000029802322
+				},
+				"refreshRate" : 100.0
+			}
+		},
+		
+		{
+			"observerid" : "if1",
+			"pickedConditionIndex" : 0,
+			"trial" : 
+			{
+				"class" : "SBSTrial",
+				"conditions" : 
+				[
+					
+					{
+						"scene" : "ET_TARGET",
+						"technique" : "full"
+					},
+					
+					{
+						"scene" : "ET_TARGET",
+						"technique" : "blurhrr"
+					}
+				],
+				"duration" : 20.0,
+				"id" : 19,
+				"motion" : 
+				{
+					"amplitude" : 0.4000000059604645,
+					"class" : "SinusoidMotion",
+					"dir_x" : 1.0,
+					"dir_y" : 0.0,
+					"frequency" : 0.2000000029802322
+				},
+				"refreshRate" : 100.0
+			}
+		},
+		
+		{
+			"observerid" : "if1",
+			"pickedConditionIndex" : 0,
+			"trial" : 
+			{
+				"class" : "SBSTrial",
+				"conditions" : 
+				[
+					
+					{
+						"scene" : "ET_TARGET",
+						"technique" : "full"
+					},
+					
+					{
+						"scene" : "ET_TARGET",
+						"technique" : "blurhrr"
+					}
+				],
+				"duration" : 20.0,
+				"id" : 67,
+				"motion" : 
+				{
+					"amplitudes" : [ 2.0, 2.0, 2.0, 2.0, 2.0, 0.2000000029802322, 0.2000000029802322 ],
+					"class" : "SumSinusoidsMotion",
+					"frequencies" : 
+					[
+						0.1000000014901161,
+						0.1400000005960464,
+						0.2399999946355820,
+						0.4099999964237213,
+						0.7400000095367432,
+						1.279999971389771,
+						2.190000057220459
+					],
+					"gain" : 0.04600000008940697,
+					"phases" : 
+					[
+						-1.570497155189514,
+						0.4342496395111084,
+						-0.6036133766174316,
+						-2.782925128936768,
+						-2.612725257873535,
+						0.6112847328186035,
+						0.5094923973083496
+					]
+				},
+				"refreshRate" : 144.0
+			}
+		},
+		
+		{
+			"observerid" : "if1",
+			"pickedConditionIndex" : 0,
+			"trial" : 
+			{
+				"class" : "SBSTrial",
+				"conditions" : 
+				[
+					
+					{
+						"scene" : "DISCS",
+						"technique" : "full"
+					},
+					
+					{
+						"scene" : "DISCS",
+						"technique" : "halfrr"
+					}
+				],
+				"duration" : 20.0,
+				"id" : 51,
+				"motion" : 
+				{
+					"amplitude" : 0.4000000059604645,
+					"class" : "SinusoidMotion",
+					"dir_x" : 1.0,
+					"dir_y" : 0.0,
+					"frequency" : 0.2000000029802322
+				},
+				"refreshRate" : 120.0
+			}
+		},
+		
+		{
+			"observerid" : "if1",
+			"pickedConditionIndex" : 0,
+			"trial" : 
+			{
+				"class" : "SBSTrial",
+				"conditions" : 
+				[
+					
+					{
+						"scene" : "DISCS",
+						"technique" : "full"
+					},
+					
+					{
+						"scene" : "DISCS",
+						"technique" : "halfrr"
+					}
+				],
+				"duration" : 20.0,
+				"id" : 42,
+				"motion" : 
+				{
+					"amplitude" : 0.4000000059604645,
+					"class" : "SinusoidMotion",
+					"dir_x" : 1.0,
+					"dir_y" : 0.0,
+					"frequency" : 0.2000000029802322
+				},
+				"refreshRate" : 120.0
+			}
+		},
+		
+		{
+			"observerid" : "if1",
+			"pickedConditionIndex" : 0,
+			"trial" : 
+			{
+				"class" : "SBSTrial",
+				"conditions" : 
+				[
+					
+					{
+						"scene" : "ET_TARGET",
+						"technique" : "full"
+					},
+					
+					{
+						"scene" : "ET_TARGET",
+						"technique" : "blurhrr"
+					}
+				],
+				"duration" : 20.0,
+				"id" : 46,
+				"motion" : 
+				{
+					"amplitude" : 0.4000000059604645,
+					"class" : "SinusoidMotion",
+					"dir_x" : 1.0,
+					"dir_y" : 0.0,
+					"frequency" : 0.2000000029802322
+				},
+				"refreshRate" : 120.0
+			}
+		},
+		
+		{
+			"observerid" : "if1",
+			"pickedConditionIndex" : 0,
+			"trial" : 
+			{
+				"class" : "SBSTrial",
+				"conditions" : 
+				[
+					
+					{
+						"scene" : "DISCS",
+						"technique" : "full"
+					},
+					
+					{
+						"scene" : "DISCS",
+						"technique" : "blurhrr"
+					}
+				],
+				"duration" : 20.0,
+				"id" : 61,
+				"motion" : 
+				{
+					"amplitude" : 0.4000000059604645,
+					"class" : "SinusoidMotion",
+					"dir_x" : 1.0,
+					"dir_y" : 0.0,
+					"frequency" : 0.2000000029802322
+				},
+				"refreshRate" : 144.0
+			}
+		},
+		
+		{
+			"observerid" : "if1",
+			"pickedConditionIndex" : 0,
+			"trial" : 
+			{
+				"class" : "SBSTrial",
+				"conditions" : 
+				[
+					
+					{
+						"scene" : "ET_TARGET",
+						"technique" : "full"
+					},
+					
+					{
+						"scene" : "ET_TARGET",
+						"technique" : "blurhrr"
+					}
+				],
+				"duration" : 20.0,
+				"id" : 40,
+				"motion" : 
+				{
+					"amplitudes" : [ 2.0, 2.0, 2.0, 2.0, 2.0, 0.2000000029802322, 0.2000000029802322 ],
+					"class" : "SumSinusoidsMotion",
+					"frequencies" : 
+					[
+						0.1000000014901161,
+						0.1400000005960464,
+						0.2399999946355820,
+						0.4099999964237213,
+						0.7400000095367432,
+						1.279999971389771,
+						2.190000057220459
+					],
+					"gain" : 0.04600000008940697,
+					"phases" : 
+					[
+						-2.696476221084595,
+						-3.139675378799438,
+						-0.5729181766510010,
+						1.585639238357544,
+						2.778786897659302,
+						1.804984807968140,
+						-0.5563933849334717
+					]
+				},
+				"refreshRate" : 120.0
+			}
+		},
+		
+		{
+			"observerid" : "if1",
+			"pickedConditionIndex" : 0,
+			"trial" : 
+			{
+				"class" : "SBSTrial",
+				"conditions" : 
+				[
+					
+					{
+						"scene" : "DISCS",
+						"technique" : "blurhrr"
+					},
+					
+					{
+						"scene" : "DISCS",
+						"technique" : "halfrr"
+					}
+				],
+				"duration" : 20.0,
+				"id" : 44,
+				"motion" : 
+				{
+					"amplitude" : 0.4000000059604645,
+					"class" : "SinusoidMotion",
+					"dir_x" : 1.0,
+					"dir_y" : 0.0,
+					"frequency" : 0.2000000029802322
+				},
+				"refreshRate" : 120.0
+			}
+		},
+		
+		{
+			"observerid" : "if1",
+			"pickedConditionIndex" : 0,
+			"trial" : 
+			{
+				"class" : "SBSTrial",
+				"conditions" : 
+				[
+					
+					{
+						"scene" : "ET_TARGET",
+						"technique" : "full"
+					},
+					
+					{
+						"scene" : "ET_TARGET",
+						"technique" : "blurhrr"
+					}
+				],
+				"duration" : 20.0,
+				"id" : 58,
+				"motion" : 
+				{
+					"amplitudes" : [ 2.0, 2.0, 2.0, 2.0, 2.0, 0.2000000029802322, 0.2000000029802322 ],
+					"class" : "SumSinusoidsMotion",
+					"frequencies" : 
+					[
+						0.1000000014901161,
+						0.1400000005960464,
+						0.2399999946355820,
+						0.4099999964237213,
+						0.7400000095367432,
+						1.279999971389771,
+						2.190000057220459
+					],
+					"gain" : 0.04600000008940697,
+					"phases" : 
+					[
+						-1.336462974548340,
+						2.564594030380249,
+						-1.839704155921936,
+						0.6852583885192871,
+						2.260519742965698,
+						1.000514745712280,
+						-0.06370735168457031
+					]
+				},
+				"refreshRate" : 144.0
+			}
+		},
+		
+		{
+			"observerid" : "if1",
+			"pickedConditionIndex" : 1,
+			"trial" : 
+			{
+				"class" : "SBSTrial",
+				"conditions" : 
+				[
+					
+					{
+						"scene" : "ET_TARGET",
+						"technique" : "blurhrr"
+					},
+					
+					{
+						"scene" : "ET_TARGET",
+						"technique" : "halfrr"
+					}
+				],
+				"duration" : 20.0,
+				"id" : 83,
+				"motion" : 
+				{
+					"amplitude" : 0.4000000059604645,
+					"class" : "SinusoidMotion",
+					"dir_x" : 1.0,
+					"dir_y" : 0.0,
+					"frequency" : 0.2000000029802322
+				},
+				"refreshRate" : 165.0
+			}
+		},
+		
+		{
+			"observerid" : "if1",
+			"pickedConditionIndex" : 0,
+			"trial" : 
+			{
+				"class" : "SBSTrial",
+				"conditions" : 
+				[
+					
+					{
+						"scene" : "DISCS",
+						"technique" : "full"
+					},
+					
+					{
+						"scene" : "DISCS",
+						"technique" : "blurhrr"
+					}
+				],
+				"duration" : 20.0,
+				"id" : 97,
+				"motion" : 
+				{
+					"amplitude" : 0.4000000059604645,
+					"class" : "SinusoidMotion",
+					"dir_x" : 1.0,
+					"dir_y" : 0.0,
+					"frequency" : 0.2000000029802322
+				},
+				"refreshRate" : 165.0
+			}
+		},
+		
+		{
+			"observerid" : "if1",
+			"pickedConditionIndex" : 1,
+			"trial" : 
+			{
+				"class" : "SBSTrial",
+				"conditions" : 
+				[
+					
+					{
+						"scene" : "ET_TARGET",
+						"technique" : "blurhrr"
+					},
+					
+					{
+						"scene" : "ET_TARGET",
+						"technique" : "halfrr"
+					}
+				],
+				"duration" : 20.0,
+				"id" : 47,
+				"motion" : 
+				{
+					"amplitude" : 0.4000000059604645,
+					"class" : "SinusoidMotion",
+					"dir_x" : 1.0,
+					"dir_y" : 0.0,
+					"frequency" : 0.2000000029802322
+				},
+				"refreshRate" : 120.0
+			}
+		},
+		
+		{
+			"observerid" : "if1",
+			"pickedConditionIndex" : 0,
+			"trial" : 
+			{
+				"class" : "SBSTrial",
+				"conditions" : 
+				[
+					
+					{
+						"scene" : "ET_TARGET",
+						"technique" : "full"
+					},
+					
+					{
+						"scene" : "ET_TARGET",
+						"technique" : "halfrr"
+					}
+				],
+				"duration" : 20.0,
+				"id" : 12,
+				"motion" : 
+				{
+					"amplitudes" : [ 2.0, 2.0, 2.0, 2.0, 2.0, 0.2000000029802322, 0.2000000029802322 ],
+					"class" : "SumSinusoidsMotion",
+					"frequencies" : 
+					[
+						0.1000000014901161,
+						0.1400000005960464,
+						0.2399999946355820,
+						0.4099999964237213,
+						0.7400000095367432,
+						1.279999971389771,
+						2.190000057220459
+					],
+					"gain" : 0.04600000008940697,
+					"phases" : 
+					[
+						-2.597001552581787,
+						-2.002516269683838,
+						2.217168569564819,
+						-1.713636755943298,
+						0.3012111186981201,
+						2.320260763168335,
+						1.786657094955444
+					]
+				},
+				"refreshRate" : 100.0
+			}
+		},
+		
+		{
+			"observerid" : "if1",
+			"pickedConditionIndex" : 0,
+			"trial" : 
+			{
+				"class" : "SBSTrial",
+				"conditions" : 
+				[
+					
+					{
+						"scene" : "ET_TARGET",
+						"technique" : "blurhrr"
+					},
+					
+					{
+						"scene" : "ET_TARGET",
+						"technique" : "halfrr"
+					}
+				],
+				"duration" : 20.0,
+				"id" : 95,
+				"motion" : 
+				{
+					"amplitudes" : [ 2.0, 2.0, 2.0, 2.0, 2.0, 0.2000000029802322, 0.2000000029802322 ],
+					"class" : "SumSinusoidsMotion",
+					"frequencies" : 
+					[
+						0.1000000014901161,
+						0.1400000005960464,
+						0.2399999946355820,
+						0.4099999964237213,
+						0.7400000095367432,
+						1.279999971389771,
+						2.190000057220459
+					],
+					"gain" : 0.04600000008940697,
+					"phases" : 
+					[
+						-1.641512989997864,
+						-2.388231277465820,
+						-2.860129833221436,
+						2.000475168228149,
+						-0.3458840847015381,
+						1.171176195144653,
+						0.7727332115173340
+					]
+				},
+				"refreshRate" : 165.0
+			}
+		},
+		
+		{
+			"observerid" : "if1",
+			"pickedConditionIndex" : 0,
+			"trial" : 
+			{
+				"class" : "SBSTrial",
+				"conditions" : 
+				[
+					
+					{
+						"scene" : "ET_TARGET",
+						"technique" : "full"
+					},
+					
+					{
+						"scene" : "ET_TARGET",
+						"technique" : "halfrr"
+					}
+				],
+				"duration" : 20.0,
+				"id" : 39,
+				"motion" : 
+				{
+					"amplitudes" : [ 2.0, 2.0, 2.0, 2.0, 2.0, 0.2000000029802322, 0.2000000029802322 ],
+					"class" : "SumSinusoidsMotion",
+					"frequencies" : 
+					[
+						0.1000000014901161,
+						0.1400000005960464,
+						0.2399999946355820,
+						0.4099999964237213,
+						0.7400000095367432,
+						1.279999971389771,
+						2.190000057220459
+					],
+					"gain" : 0.04600000008940697,
+					"phases" : 
+					[
+						-1.739076137542725,
+						1.008966207504272,
+						-0.8273816108703613,
+						-0.4175784587860107,
+						-0.9782068729400635,
+						1.602318048477173,
+						-2.481170892715454
+					]
+				},
+				"refreshRate" : 120.0
+			}
+		},
+		
+		{
+			"observerid" : "if1",
+			"pickedConditionIndex" : 1,
+			"trial" : 
+			{
+				"class" : "SBSTrial",
+				"conditions" : 
+				[
+					
+					{
+						"scene" : "DISCS",
+						"technique" : "blurhrr"
+					},
+					
+					{
+						"scene" : "DISCS",
+						"technique" : "halfrr"
+					}
+				],
+				"duration" : 20.0,
+				"id" : 8,
+				"motion" : 
+				{
+					"amplitude" : 0.4000000059604645,
+					"class" : "SinusoidMotion",
+					"dir_x" : 1.0,
+					"dir_y" : 0.0,
+					"frequency" : 0.2000000029802322
+				},
+				"refreshRate" : 100.0
+			}
+		},
+		
+		{
+			"observerid" : "if1",
+			"pickedConditionIndex" : 0,
+			"trial" : 
+			{
+				"class" : "SBSTrial",
+				"conditions" : 
+				[
+					
+					{
+						"scene" : "ET_TARGET",
+						"technique" : "blurhrr"
+					},
+					
+					{
+						"scene" : "ET_TARGET",
+						"technique" : "halfrr"
+					}
+				],
+				"duration" : 20.0,
+				"id" : 2,
+				"motion" : 
+				{
+					"amplitude" : 0.4000000059604645,
+					"class" : "SinusoidMotion",
+					"dir_x" : 1.0,
+					"dir_y" : 0.0,
+					"frequency" : 0.2000000029802322
+				},
+				"refreshRate" : 100.0
+			}
+		},
+		
+		{
+			"observerid" : "if1",
+			"pickedConditionIndex" : 0,
+			"trial" : 
+			{
+				"class" : "SBSTrial",
+				"conditions" : 
+				[
+					
+					{
+						"scene" : "ET_TARGET",
+						"technique" : "full"
+					},
+					
+					{
+						"scene" : "ET_TARGET",
+						"technique" : "halfrr"
+					}
+				],
+				"duration" : 20.0,
+				"id" : 75,
+				"motion" : 
+				{
+					"amplitudes" : [ 2.0, 2.0, 2.0, 2.0, 2.0, 0.2000000029802322, 0.2000000029802322 ],
+					"class" : "SumSinusoidsMotion",
+					"frequencies" : 
+					[
+						0.1000000014901161,
+						0.1400000005960464,
+						0.2399999946355820,
+						0.4099999964237213,
+						0.7400000095367432,
+						1.279999971389771,
+						2.190000057220459
+					],
+					"gain" : 0.04600000008940697,
+					"phases" : 
+					[
+						1.719774007797241,
+						-0.02738094329833984,
+						-1.622988581657410,
+						-2.015063762664795,
+						-0.6181094646453857,
+						-1.647738218307495,
+						-2.220501899719238
+					]
+				},
+				"refreshRate" : 144.0
+			}
+		},
+		
+		{
+			"observerid" : "if1",
+			"pickedConditionIndex" : 0,
+			"trial" : 
+			{
+				"class" : "SBSTrial",
+				"conditions" : 
+				[
+					
+					{
+						"scene" : "ET_TARGET",
+						"technique" : "full"
+					},
+					
+					{
+						"scene" : "ET_TARGET",
+						"technique" : "blurhrr"
+					}
+				],
+				"duration" : 20.0,
+				"id" : 103,
+				"motion" : 
+				{
+					"amplitudes" : [ 2.0, 2.0, 2.0, 2.0, 2.0, 0.2000000029802322, 0.2000000029802322 ],
+					"class" : "SumSinusoidsMotion",
+					"frequencies" : 
+					[
+						0.1000000014901161,
+						0.1400000005960464,
+						0.2399999946355820,
+						0.4099999964237213,
+						0.7400000095367432,
+						1.279999971389771,
+						2.190000057220459
+					],
+					"gain" : 0.04600000008940697,
+					"phases" : 
+					[
+						2.613180398941040,
+						2.916740179061890,
+						2.289022684097290,
+						-1.159655094146729,
+						-2.350314140319824,
+						-0.007624864578247070,
+						-1.471128225326538
+					]
+				},
+				"refreshRate" : 165.0
+			}
+		},
+		
+		{
+			"observerid" : "if1",
+			"pickedConditionIndex" : 1,
+			"trial" : 
+			{
+				"class" : "SBSTrial",
+				"conditions" : 
+				[
+					
+					{
+						"scene" : "ET_TARGET",
+						"technique" : "blurhrr"
+					},
+					
+					{
+						"scene" : "ET_TARGET",
+						"technique" : "halfrr"
+					}
+				],
+				"duration" : 20.0,
+				"id" : 104,
+				"motion" : 
+				{
+					"amplitudes" : [ 2.0, 2.0, 2.0, 2.0, 2.0, 0.2000000029802322, 0.2000000029802322 ],
+					"class" : "SumSinusoidsMotion",
+					"frequencies" : 
+					[
+						0.1000000014901161,
+						0.1400000005960464,
+						0.2399999946355820,
+						0.4099999964237213,
+						0.7400000095367432,
+						1.279999971389771,
+						2.190000057220459
+					],
+					"gain" : 0.04600000008940697,
+					"phases" : 
+					[
+						0.2177107334136963,
+						1.867401361465454,
+						2.640220880508423,
+						0.05478215217590332,
+						-2.879895448684692,
+						-0.3002288341522217,
+						-1.9904785156250
+					]
+				},
+				"refreshRate" : 165.0
+			}
+		},
+		
+		{
+			"observerid" : "if1",
+			"pickedConditionIndex" : 0,
+			"trial" : 
+			{
+				"class" : "SBSTrial",
+				"conditions" : 
+				[
+					
+					{
+						"scene" : "ET_TARGET",
+						"technique" : "full"
+					},
+					
+					{
+						"scene" : "ET_TARGET",
+						"technique" : "blurhrr"
+					}
+				],
+				"duration" : 20.0,
+				"id" : 82,
+				"motion" : 
+				{
+					"amplitude" : 0.4000000059604645,
+					"class" : "SinusoidMotion",
+					"dir_x" : 1.0,
+					"dir_y" : 0.0,
+					"frequency" : 0.2000000029802322
+				},
+				"refreshRate" : 165.0
+			}
+		},
+		
+		{
+			"observerid" : "if1",
+			"pickedConditionIndex" : 0,
+			"trial" : 
+			{
+				"class" : "SBSTrial",
+				"conditions" : 
+				[
+					
+					{
+						"scene" : "ET_TARGET",
+						"technique" : "blurhrr"
+					},
+					
+					{
+						"scene" : "ET_TARGET",
+						"technique" : "halfrr"
+					}
+				],
+				"duration" : 20.0,
+				"id" : 101,
+				"motion" : 
+				{
+					"amplitude" : 0.4000000059604645,
+					"class" : "SinusoidMotion",
+					"dir_x" : 1.0,
+					"dir_y" : 0.0,
+					"frequency" : 0.2000000029802322
+				},
+				"refreshRate" : 165.0
+			}
+		},
+		
+		{
+			"observerid" : "if1",
+			"pickedConditionIndex" : 0,
+			"trial" : 
+			{
+				"class" : "SBSTrial",
+				"conditions" : 
+				[
+					
+					{
+						"scene" : "DISCS",
+						"technique" : "full"
+					},
+					
+					{
+						"scene" : "DISCS",
+						"technique" : "halfrr"
+					}
+				],
+				"duration" : 20.0,
+				"id" : 24,
+				"motion" : 
+				{
+					"amplitude" : 0.4000000059604645,
+					"class" : "SinusoidMotion",
+					"dir_x" : 1.0,
+					"dir_y" : 0.0,
+					"frequency" : 0.2000000029802322
+				},
+				"refreshRate" : 100.0
+			}
+		},
+		
+		{
+			"observerid" : "if1",
+			"pickedConditionIndex" : 0,
+			"trial" : 
+			{
+				"class" : "SBSTrial",
+				"conditions" : 
+				[
+					
+					{
+						"scene" : "ET_TARGET",
+						"technique" : "full"
+					},
+					
+					{
+						"scene" : "ET_TARGET",
+						"technique" : "blurhrr"
+					}
+				],
+				"duration" : 20.0,
+				"id" : 49,
+				"motion" : 
+				{
+					"amplitudes" : [ 2.0, 2.0, 2.0, 2.0, 2.0, 0.2000000029802322, 0.2000000029802322 ],
+					"class" : "SumSinusoidsMotion",
+					"frequencies" : 
+					[
+						0.1000000014901161,
+						0.1400000005960464,
+						0.2399999946355820,
+						0.4099999964237213,
+						0.7400000095367432,
+						1.279999971389771,
+						2.190000057220459
+					],
+					"gain" : 0.04600000008940697,
+					"phases" : 
+					[
+						2.034723520278931,
+						-3.115123510360718,
+						2.931080102920532,
+						-2.399844408035278,
+						-2.508338451385498,
+						-1.689484477043152,
+						0.04372596740722656
+					]
+				},
+				"refreshRate" : 120.0
+			}
+		},
+		
+		{
+			"observerid" : "if1",
+			"pickedConditionIndex" : 0,
+			"trial" : 
+			{
+				"class" : "SBSTrial",
+				"conditions" : 
+				[
+					
+					{
+						"scene" : "ET_TARGET",
+						"technique" : "full"
+					},
+					
+					{
+						"scene" : "ET_TARGET",
+						"technique" : "halfrr"
+					}
+				],
+				"duration" : 20.0,
+				"id" : 9,
+				"motion" : 
+				{
+					"amplitude" : 0.4000000059604645,
+					"class" : "SinusoidMotion",
+					"dir_x" : 1.0,
+					"dir_y" : 0.0,
+					"frequency" : 0.2000000029802322
+				},
+				"refreshRate" : 100.0
+			}
+		},
+		
+		{
+			"observerid" : "if1",
+			"pickedConditionIndex" : 0,
+			"trial" : 
+			{
+				"class" : "SBSTrial",
+				"conditions" : 
+				[
+					
+					{
+						"scene" : "ET_TARGET",
+						"technique" : "full"
+					},
+					
+					{
+						"scene" : "ET_TARGET",
+						"technique" : "halfrr"
+					}
+				],
+				"duration" : 20.0,
+				"id" : 36,
+				"motion" : 
+				{
+					"amplitude" : 0.4000000059604645,
+					"class" : "SinusoidMotion",
+					"dir_x" : 1.0,
+					"dir_y" : 0.0,
+					"frequency" : 0.2000000029802322
+				},
+				"refreshRate" : 120.0
+			}
+		},
+		
+		{
+			"observerid" : "if1",
+			"pickedConditionIndex" : 0,
+			"trial" : 
+			{
+				"class" : "SBSTrial",
+				"conditions" : 
+				[
+					
+					{
+						"scene" : "ET_TARGET",
+						"technique" : "full"
+					},
+					
+					{
+						"scene" : "ET_TARGET",
+						"technique" : "halfrr"
+					}
+				],
+				"duration" : 20.0,
+				"id" : 72,
+				"motion" : 
+				{
+					"amplitude" : 0.4000000059604645,
+					"class" : "SinusoidMotion",
+					"dir_x" : 1.0,
+					"dir_y" : 0.0,
+					"frequency" : 0.2000000029802322
+				},
+				"refreshRate" : 144.0
+			}
+		},
+		
+		{
+			"observerid" : "if1",
+			"pickedConditionIndex" : 0,
+			"trial" : 
+			{
+				"class" : "SBSTrial",
+				"conditions" : 
+				[
+					
+					{
+						"scene" : "ET_TARGET",
+						"technique" : "full"
+					},
+					
+					{
+						"scene" : "ET_TARGET",
+						"technique" : "halfrr"
+					}
+				],
+				"duration" : 20.0,
+				"id" : 18,
+				"motion" : 
+				{
+					"amplitude" : 0.4000000059604645,
+					"class" : "SinusoidMotion",
+					"dir_x" : 1.0,
+					"dir_y" : 0.0,
+					"frequency" : 0.2000000029802322
+				},
+				"refreshRate" : 100.0
+			}
+		},
+		
+		{
+			"observerid" : "if1",
+			"pickedConditionIndex" : 0,
+			"trial" : 
+			{
+				"class" : "SBSTrial",
+				"conditions" : 
+				[
+					
+					{
+						"scene" : "ET_TARGET",
+						"technique" : "blurhrr"
+					},
+					
+					{
+						"scene" : "ET_TARGET",
+						"technique" : "halfrr"
+					}
+				],
+				"duration" : 20.0,
+				"id" : 14,
+				"motion" : 
+				{
+					"amplitudes" : [ 2.0, 2.0, 2.0, 2.0, 2.0, 0.2000000029802322, 0.2000000029802322 ],
+					"class" : "SumSinusoidsMotion",
+					"frequencies" : 
+					[
+						0.1000000014901161,
+						0.1400000005960464,
+						0.2399999946355820,
+						0.4099999964237213,
+						0.7400000095367432,
+						1.279999971389771,
+						2.190000057220459
+					],
+					"gain" : 0.04600000008940697,
+					"phases" : 
+					[
+						-0.3752610683441162,
+						3.129153966903687,
+						-0.4148547649383545,
+						2.229101896286011,
+						-0.5703184604644775,
+						0.1481215953826904,
+						1.097374200820923
+					]
+				},
+				"refreshRate" : 100.0
+			}
+		},
+		
+		{
+			"observerid" : "if1",
+			"pickedConditionIndex" : 1,
+			"trial" : 
+			{
+				"class" : "SBSTrial",
+				"conditions" : 
+				[
+					
+					{
+						"scene" : "DISCS",
+						"technique" : "blurhrr"
+					},
+					
+					{
+						"scene" : "DISCS",
+						"technique" : "halfrr"
+					}
+				],
+				"duration" : 20.0,
+				"id" : 80,
+				"motion" : 
+				{
+					"amplitude" : 0.4000000059604645,
+					"class" : "SinusoidMotion",
+					"dir_x" : 1.0,
+					"dir_y" : 0.0,
+					"frequency" : 0.2000000029802322
+				},
+				"refreshRate" : 144.0
+			}
+		},
+		
+		{
+			"observerid" : "if1",
+			"pickedConditionIndex" : 1,
+			"trial" : 
+			{
+				"class" : "SBSTrial",
+				"conditions" : 
+				[
+					
+					{
+						"scene" : "ET_TARGET",
+						"technique" : "blurhrr"
+					},
+					
+					{
+						"scene" : "ET_TARGET",
+						"technique" : "halfrr"
+					}
+				],
+				"duration" : 20.0,
+				"id" : 20,
+				"motion" : 
+				{
+					"amplitude" : 0.4000000059604645,
+					"class" : "SinusoidMotion",
+					"dir_x" : 1.0,
+					"dir_y" : 0.0,
+					"frequency" : 0.2000000029802322
+				},
+				"refreshRate" : 100.0
+			}
+		},
+		
+		{
+			"observerid" : "if1",
+			"pickedConditionIndex" : 0,
+			"trial" : 
+			{
+				"class" : "SBSTrial",
+				"conditions" : 
+				[
+					
+					{
+						"scene" : "ET_TARGET",
+						"technique" : "full"
+					},
+					
+					{
+						"scene" : "ET_TARGET",
+						"technique" : "halfrr"
+					}
+				],
+				"duration" : 20.0,
+				"id" : 45,
+				"motion" : 
+				{
+					"amplitude" : 0.4000000059604645,
+					"class" : "SinusoidMotion",
+					"dir_x" : 1.0,
+					"dir_y" : 0.0,
+					"frequency" : 0.2000000029802322
+				},
+				"refreshRate" : 120.0
+			}
+		},
+		
+		{
+			"observerid" : "if1",
+			"pickedConditionIndex" : 0,
+			"trial" : 
+			{
+				"class" : "SBSTrial",
+				"conditions" : 
+				[
+					
+					{
+						"scene" : "ET_TARGET",
+						"technique" : "full"
+					},
+					
+					{
+						"scene" : "ET_TARGET",
+						"technique" : "halfrr"
+					}
+				],
+				"duration" : 20.0,
+				"id" : 84,
+				"motion" : 
+				{
+					"amplitudes" : [ 2.0, 2.0, 2.0, 2.0, 2.0, 0.2000000029802322, 0.2000000029802322 ],
+					"class" : "SumSinusoidsMotion",
+					"frequencies" : 
+					[
+						0.1000000014901161,
+						0.1400000005960464,
+						0.2399999946355820,
+						0.4099999964237213,
+						0.7400000095367432,
+						1.279999971389771,
+						2.190000057220459
+					],
+					"gain" : 0.04600000008940697,
+					"phases" : 
+					[
+						1.168675184249878,
+						3.050494909286499,
+						1.548289060592651,
+						0.5892794132232666,
+						2.292709589004517,
+						0.3822686672210693,
+						2.058033704757690
+					]
+				},
+				"refreshRate" : 165.0
+			}
+		},
+		
+		{
+			"observerid" : "if1",
+			"pickedConditionIndex" : 0,
+			"trial" : 
+			{
+				"class" : "SBSTrial",
+				"conditions" : 
+				[
+					
+					{
+						"scene" : "ET_TARGET",
+						"technique" : "full"
+					},
+					
+					{
+						"scene" : "ET_TARGET",
+						"technique" : "halfrr"
+					}
+				],
+				"duration" : 20.0,
+				"id" : 48,
+				"motion" : 
+				{
+					"amplitudes" : [ 2.0, 2.0, 2.0, 2.0, 2.0, 0.2000000029802322, 0.2000000029802322 ],
+					"class" : "SumSinusoidsMotion",
+					"frequencies" : 
+					[
+						0.1000000014901161,
+						0.1400000005960464,
+						0.2399999946355820,
+						0.4099999964237213,
+						0.7400000095367432,
+						1.279999971389771,
+						2.190000057220459
+					],
+					"gain" : 0.04600000008940697,
+					"phases" : 
+					[
+						-0.9461610317230225,
+						0.9088528156280518,
+						0.009846210479736328,
+						-3.122072935104370,
+						1.578069448471069,
+						2.013973951339722,
+						-0.1033778190612793
+					]
+				},
+				"refreshRate" : 120.0
+			}
+		},
+		
+		{
+			"observerid" : "if1",
+			"pickedConditionIndex" : 1,
+			"trial" : 
+			{
+				"class" : "SBSTrial",
+				"conditions" : 
+				[
+					
+					{
+						"scene" : "DISCS",
+						"technique" : "blurhrr"
+					},
+					
+					{
+						"scene" : "DISCS",
+						"technique" : "halfrr"
+					}
+				],
+				"duration" : 20.0,
+				"id" : 98,
+				"motion" : 
+				{
+					"amplitude" : 0.4000000059604645,
+					"class" : "SinusoidMotion",
+					"dir_x" : 1.0,
+					"dir_y" : 0.0,
+					"frequency" : 0.2000000029802322
+				},
+				"refreshRate" : 165.0
+			}
+		},
+		
+		{
+			"observerid" : "if1",
+			"pickedConditionIndex" : 0,
+			"trial" : 
+			{
+				"class" : "SBSTrial",
+				"conditions" : 
+				[
+					
+					{
+						"scene" : "ET_TARGET",
+						"technique" : "full"
+					},
+					
+					{
+						"scene" : "ET_TARGET",
+						"technique" : "blurhrr"
+					}
+				],
+				"duration" : 20.0,
+				"id" : 4,
+				"motion" : 
+				{
+					"amplitudes" : [ 2.0, 2.0, 2.0, 2.0, 2.0, 0.2000000029802322, 0.2000000029802322 ],
+					"class" : "SumSinusoidsMotion",
+					"frequencies" : 
+					[
+						0.1000000014901161,
+						0.1400000005960464,
+						0.2399999946355820,
+						0.4099999964237213,
+						0.7400000095367432,
+						1.279999971389771,
+						2.190000057220459
+					],
+					"gain" : 0.04600000008940697,
+					"phases" : 
+					[
+						3.054080724716187,
+						-2.813512086868286,
+						0.3559176921844482,
+						0.4363200664520264,
+						-1.676558852195740,
+						-2.918992280960083,
+						2.136528253555298
+					]
+				},
+				"refreshRate" : 100.0
+			}
+		},
+		
+		{
+			"observerid" : "if1",
+			"pickedConditionIndex" : 0,
+			"trial" : 
+			{
+				"class" : "SBSTrial",
+				"conditions" : 
+				[
+					
+					{
+						"scene" : "ET_TARGET",
+						"technique" : "full"
+					},
+					
+					{
+						"scene" : "ET_TARGET",
+						"technique" : "halfrr"
+					}
+				],
+				"duration" : 20.0,
+				"id" : 27,
+				"motion" : 
+				{
+					"amplitude" : 0.4000000059604645,
+					"class" : "SinusoidMotion",
+					"dir_x" : 1.0,
+					"dir_y" : 0.0,
+					"frequency" : 0.2000000029802322
+				},
+				"refreshRate" : 120.0
+			}
+		},
+		
+		{
+			"observerid" : "if1",
+			"pickedConditionIndex" : 0,
+			"trial" : 
+			{
+				"class" : "SBSTrial",
+				"conditions" : 
+				[
+					
+					{
+						"scene" : "DISCS",
+						"technique" : "full"
+					},
+					
+					{
+						"scene" : "DISCS",
+						"technique" : "halfrr"
+					}
+				],
+				"duration" : 20.0,
+				"id" : 96,
+				"motion" : 
+				{
+					"amplitude" : 0.4000000059604645,
+					"class" : "SinusoidMotion",
+					"dir_x" : 1.0,
+					"dir_y" : 0.0,
+					"frequency" : 0.2000000029802322
+				},
+				"refreshRate" : 165.0
+			}
+		},
+		
+		{
+			"observerid" : "if1",
+			"pickedConditionIndex" : 0,
+			"trial" : 
+			{
+				"class" : "SBSTrial",
+				"conditions" : 
+				[
+					
+					{
+						"scene" : "DISCS",
+						"technique" : "full"
+					},
+					
+					{
+						"scene" : "DISCS",
+						"technique" : "blurhrr"
+					}
+				],
+				"duration" : 20.0,
+				"id" : 52,
+				"motion" : 
+				{
+					"amplitude" : 0.4000000059604645,
+					"class" : "SinusoidMotion",
+					"dir_x" : 1.0,
+					"dir_y" : 0.0,
+					"frequency" : 0.2000000029802322
+				},
+				"refreshRate" : 120.0
+			}
+		},
+		
+		{
+			"observerid" : "if1",
+			"pickedConditionIndex" : 0,
+			"trial" : 
+			{
+				"class" : "SBSTrial",
+				"conditions" : 
+				[
+					
+					{
+						"scene" : "DISCS",
+						"technique" : "full"
+					},
+					
+					{
+						"scene" : "DISCS",
+						"technique" : "halfrr"
+					}
+				],
+				"duration" : 20.0,
+				"id" : 69,
+				"motion" : 
+				{
+					"amplitude" : 0.4000000059604645,
+					"class" : "SinusoidMotion",
+					"dir_x" : 1.0,
+					"dir_y" : 0.0,
+					"frequency" : 0.2000000029802322
+				},
+				"refreshRate" : 144.0
+			}
+		},
+		
+		{
+			"observerid" : "if1",
+			"pickedConditionIndex" : 0,
+			"trial" : 
+			{
+				"class" : "SBSTrial",
+				"conditions" : 
+				[
+					
+					{
+						"scene" : "ET_TARGET",
+						"technique" : "full"
+					},
+					
+					{
+						"scene" : "ET_TARGET",
+						"technique" : "halfrr"
+					}
+				],
+				"duration" : 20.0,
+				"id" : 90,
+				"motion" : 
+				{
+					"amplitude" : 0.4000000059604645,
+					"class" : "SinusoidMotion",
+					"dir_x" : 1.0,
+					"dir_y" : 0.0,
+					"frequency" : 0.2000000029802322
+				},
+				"refreshRate" : 165.0
+			}
+		},
+		
+		{
+			"observerid" : "if1",
+			"pickedConditionIndex" : 0,
+			"trial" : 
+			{
+				"class" : "SBSTrial",
+				"conditions" : 
+				[
+					
+					{
+						"scene" : "ET_TARGET",
+						"technique" : "full"
+					},
+					
+					{
+						"scene" : "ET_TARGET",
+						"technique" : "blurhrr"
+					}
+				],
+				"duration" : 20.0,
+				"id" : 94,
+				"motion" : 
+				{
+					"amplitudes" : [ 2.0, 2.0, 2.0, 2.0, 2.0, 0.2000000029802322, 0.2000000029802322 ],
+					"class" : "SumSinusoidsMotion",
+					"frequencies" : 
+					[
+						0.1000000014901161,
+						0.1400000005960464,
+						0.2399999946355820,
+						0.4099999964237213,
+						0.7400000095367432,
+						1.279999971389771,
+						2.190000057220459
+					],
+					"gain" : 0.04600000008940697,
+					"phases" : 
+					[
+						-0.4303836822509766,
+						-1.021039247512817,
+						-1.762583136558533,
+						2.855290174484253,
+						-2.688544273376465,
+						-0.2645368576049805,
+						1.282475233078003
+					]
+				},
+				"refreshRate" : 165.0
+			}
+		},
+		
+		{
+			"observerid" : "if1",
+			"pickedConditionIndex" : 0,
+			"trial" : 
+			{
+				"class" : "SBSTrial",
+				"conditions" : 
+				[
+					
+					{
+						"scene" : "ET_TARGET",
+						"technique" : "full"
+					},
+					
+					{
+						"scene" : "ET_TARGET",
+						"technique" : "halfrr"
+					}
+				],
+				"duration" : 20.0,
+				"id" : 93,
+				"motion" : 
+				{
+					"amplitudes" : [ 2.0, 2.0, 2.0, 2.0, 2.0, 0.2000000029802322, 0.2000000029802322 ],
+					"class" : "SumSinusoidsMotion",
+					"frequencies" : 
+					[
+						0.1000000014901161,
+						0.1400000005960464,
+						0.2399999946355820,
+						0.4099999964237213,
+						0.7400000095367432,
+						1.279999971389771,
+						2.190000057220459
+					],
+					"gain" : 0.04600000008940697,
+					"phases" : 
+					[
+						-2.693357706069946,
+						1.922732114791870,
+						-2.993137836456299,
+						-0.6394276618957520,
+						-0.7832520008087158,
+						1.149664163589478,
+						-2.592876911163330
+					]
+				},
+				"refreshRate" : 165.0
+			}
+		},
+		
+		{
+			"observerid" : "if1",
+			"pickedConditionIndex" : 0,
+			"trial" : 
+			{
+				"class" : "SBSTrial",
+				"conditions" : 
+				[
+					
+					{
+						"scene" : "DISCS",
+						"technique" : "blurhrr"
+					},
+					
+					{
+						"scene" : "DISCS",
+						"technique" : "halfrr"
+					}
+				],
+				"duration" : 20.0,
+				"id" : 53,
+				"motion" : 
+				{
+					"amplitude" : 0.4000000059604645,
+					"class" : "SinusoidMotion",
+					"dir_x" : 1.0,
+					"dir_y" : 0.0,
+					"frequency" : 0.2000000029802322
+				},
+				"refreshRate" : 120.0
+			}
+		},
+		
+		{
+			"observerid" : "if1",
+			"pickedConditionIndex" : 0,
+			"trial" : 
+			{
+				"class" : "SBSTrial",
+				"conditions" : 
+				[
+					
+					{
+						"scene" : "DISCS",
+						"technique" : "blurhrr"
+					},
+					
+					{
+						"scene" : "DISCS",
+						"technique" : "halfrr"
+					}
+				],
+				"duration" : 20.0,
+				"id" : 26,
+				"motion" : 
+				{
+					"amplitude" : 0.4000000059604645,
+					"class" : "SinusoidMotion",
+					"dir_x" : 1.0,
+					"dir_y" : 0.0,
+					"frequency" : 0.2000000029802322
+				},
+				"refreshRate" : 100.0
+			}
+		},
+		
+		{
+			"observerid" : "if1",
+			"pickedConditionIndex" : 0,
+			"trial" : 
+			{
+				"class" : "SBSTrial",
+				"conditions" : 
+				[
+					
+					{
+						"scene" : "ET_TARGET",
+						"technique" : "full"
+					},
+					
+					{
+						"scene" : "ET_TARGET",
+						"technique" : "blurhrr"
+					}
+				],
+				"duration" : 20.0,
+				"id" : 100,
+				"motion" : 
+				{
+					"amplitude" : 0.4000000059604645,
+					"class" : "SinusoidMotion",
+					"dir_x" : 1.0,
+					"dir_y" : 0.0,
+					"frequency" : 0.2000000029802322
+				},
+				"refreshRate" : 165.0
+			}
+		},
+		
+		{
+			"observerid" : "if1",
+			"pickedConditionIndex" : 0,
+			"trial" : 
+			{
+				"class" : "SBSTrial",
+				"conditions" : 
+				[
+					
+					{
+						"scene" : "DISCS",
+						"technique" : "full"
+					},
+					
+					{
+						"scene" : "DISCS",
+						"technique" : "blurhrr"
+					}
+				],
+				"duration" : 20.0,
+				"id" : 16,
+				"motion" : 
+				{
+					"amplitude" : 0.4000000059604645,
+					"class" : "SinusoidMotion",
+					"dir_x" : 1.0,
+					"dir_y" : 0.0,
+					"frequency" : 0.2000000029802322
+				},
+				"refreshRate" : 100.0
+			}
+		},
+		
+		{
+			"observerid" : "if1",
+			"pickedConditionIndex" : 1,
+			"trial" : 
+			{
+				"class" : "SBSTrial",
+				"conditions" : 
+				[
+					
+					{
+						"scene" : "DISCS",
+						"technique" : "blurhrr"
+					},
+					
+					{
+						"scene" : "DISCS",
+						"technique" : "halfrr"
+					}
+				],
+				"duration" : 20.0,
+				"id" : 17,
+				"motion" : 
+				{
+					"amplitude" : 0.4000000059604645,
+					"class" : "SinusoidMotion",
+					"dir_x" : 1.0,
+					"dir_y" : 0.0,
+					"frequency" : 0.2000000029802322
+				},
+				"refreshRate" : 100.0
+			}
+		},
+		
+		{
+			"observerid" : "if1",
+			"pickedConditionIndex" : 1,
+			"trial" : 
+			{
+				"class" : "SBSTrial",
+				"conditions" : 
+				[
+					
+					{
+						"scene" : "ET_TARGET",
+						"technique" : "blurhrr"
+					},
+					
+					{
+						"scene" : "ET_TARGET",
+						"technique" : "halfrr"
+					}
+				],
+				"duration" : 20.0,
+				"id" : 29,
+				"motion" : 
+				{
+					"amplitude" : 0.4000000059604645,
+					"class" : "SinusoidMotion",
+					"dir_x" : 1.0,
+					"dir_y" : 0.0,
+					"frequency" : 0.2000000029802322
+				},
+				"refreshRate" : 120.0
+			}
+		},
+		
+		{
+			"observerid" : "if1",
+			"pickedConditionIndex" : 0,
+			"trial" : 
+			{
+				"class" : "SBSTrial",
+				"conditions" : 
+				[
+					
+					{
+						"scene" : "ET_TARGET",
+						"technique" : "full"
+					},
+					
+					{
+						"scene" : "ET_TARGET",
+						"technique" : "halfrr"
+					}
+				],
+				"duration" : 20.0,
+				"id" : 0,
+				"motion" : 
+				{
+					"amplitude" : 0.4000000059604645,
+					"class" : "SinusoidMotion",
+					"dir_x" : 1.0,
+					"dir_y" : 0.0,
+					"frequency" : 0.2000000029802322
+				},
+				"refreshRate" : 100.0
+			}
+		},
+		
+		{
+			"observerid" : "if1",
+			"pickedConditionIndex" : 0,
+			"trial" : 
+			{
+				"class" : "SBSTrial",
+				"conditions" : 
+				[
+					
+					{
+						"scene" : "ET_TARGET",
+						"technique" : "full"
+					},
+					
+					{
+						"scene" : "ET_TARGET",
+						"technique" : "halfrr"
+					}
+				],
+				"duration" : 20.0,
+				"id" : 99,
+				"motion" : 
+				{
+					"amplitude" : 0.4000000059604645,
+					"class" : "SinusoidMotion",
+					"dir_x" : 1.0,
+					"dir_y" : 0.0,
+					"frequency" : 0.2000000029802322
+				},
+				"refreshRate" : 165.0
+			}
+		},
+		
+		{
+			"observerid" : "if1",
+			"pickedConditionIndex" : 0,
+			"trial" : 
+			{
+				"class" : "SBSTrial",
+				"conditions" : 
+				[
+					
+					{
+						"scene" : "ET_TARGET",
+						"technique" : "blurhrr"
+					},
+					
+					{
+						"scene" : "ET_TARGET",
+						"technique" : "halfrr"
+					}
+				],
+				"duration" : 20.0,
+				"id" : 23,
+				"motion" : 
+				{
+					"amplitudes" : [ 2.0, 2.0, 2.0, 2.0, 2.0, 0.2000000029802322, 0.2000000029802322 ],
+					"class" : "SumSinusoidsMotion",
+					"frequencies" : 
+					[
+						0.1000000014901161,
+						0.1400000005960464,
+						0.2399999946355820,
+						0.4099999964237213,
+						0.7400000095367432,
+						1.279999971389771,
+						2.190000057220459
+					],
+					"gain" : 0.04600000008940697,
+					"phases" : 
+					[
+						-2.676361322402954,
+						-2.876862049102783,
+						2.948493719100952,
+						1.742130517959595,
+						-0.1106026172637939,
+						2.198142290115356,
+						-3.014806270599365
+					]
+				},
+				"refreshRate" : 100.0
+			}
+		},
+		
+		{
+			"observerid" : "if1",
+			"pickedConditionIndex" : 1,
+			"trial" : 
+			{
+				"class" : "SBSTrial",
+				"conditions" : 
+				[
+					
+					{
+						"scene" : "ET_TARGET",
+						"technique" : "blurhrr"
+					},
+					
+					{
+						"scene" : "ET_TARGET",
+						"technique" : "halfrr"
+					}
+				],
+				"duration" : 20.0,
+				"id" : 56,
+				"motion" : 
+				{
+					"amplitude" : 0.4000000059604645,
+					"class" : "SinusoidMotion",
+					"dir_x" : 1.0,
+					"dir_y" : 0.0,
+					"frequency" : 0.2000000029802322
+				},
+				"refreshRate" : 144.0
+			}
+		},
+		
+		{
+			"observerid" : "if1",
+			"pickedConditionIndex" : 0,
+			"trial" : 
+			{
+				"class" : "SBSTrial",
+				"conditions" : 
+				[
+					
+					{
+						"scene" : "ET_TARGET",
+						"technique" : "blurhrr"
+					},
+					
+					{
+						"scene" : "ET_TARGET",
+						"technique" : "halfrr"
+					}
+				],
+				"duration" : 20.0,
+				"id" : 68,
+				"motion" : 
+				{
+					"amplitudes" : [ 2.0, 2.0, 2.0, 2.0, 2.0, 0.2000000029802322, 0.2000000029802322 ],
+					"class" : "SumSinusoidsMotion",
+					"frequencies" : 
+					[
+						0.1000000014901161,
+						0.1400000005960464,
+						0.2399999946355820,
+						0.4099999964237213,
+						0.7400000095367432,
+						1.279999971389771,
+						2.190000057220459
+					],
+					"gain" : 0.04600000008940697,
+					"phases" : 
+					[
+						-1.500707507133484,
+						-2.593424320220947,
+						-0.9733464717864990,
+						-0.6865305900573730,
+						2.821001768112183,
+						0.2415657043457031,
+						0.1791918277740479
+					]
+				},
+				"refreshRate" : 144.0
+			}
+		},
+		
+		{
+			"observerid" : "if1",
+			"pickedConditionIndex" : 0,
+			"trial" : 
+			{
+				"class" : "SBSTrial",
+				"conditions" : 
+				[
+					
+					{
+						"scene" : "DISCS",
+						"technique" : "full"
+					},
+					
+					{
+						"scene" : "DISCS",
+						"technique" : "halfrr"
+					}
+				],
+				"duration" : 20.0,
+				"id" : 105,
+				"motion" : 
+				{
+					"amplitude" : 0.4000000059604645,
+					"class" : "SinusoidMotion",
+					"dir_x" : 1.0,
+					"dir_y" : 0.0,
+					"frequency" : 0.2000000029802322
+				},
+				"refreshRate" : 165.0
+			}
+		},
+		
+		{
+			"observerid" : "if1",
+			"pickedConditionIndex" : 1,
+			"trial" : 
+			{
+				"class" : "SBSTrial",
+				"conditions" : 
+				[
+					
+					{
+						"scene" : "DISCS",
+						"technique" : "blurhrr"
+					},
+					
+					{
+						"scene" : "DISCS",
+						"technique" : "halfrr"
+					}
+				],
+				"duration" : 20.0,
+				"id" : 107,
+				"motion" : 
+				{
+					"amplitude" : 0.4000000059604645,
+					"class" : "SinusoidMotion",
+					"dir_x" : 1.0,
+					"dir_y" : 0.0,
+					"frequency" : 0.2000000029802322
+				},
+				"refreshRate" : 165.0
+			}
+		},
+		
+		{
+			"observerid" : "if1",
+			"pickedConditionIndex" : 0,
+			"trial" : 
+			{
+				"class" : "SBSTrial",
+				"conditions" : 
+				[
+					
+					{
+						"scene" : "ET_TARGET",
+						"technique" : "full"
+					},
+					
+					{
+						"scene" : "ET_TARGET",
+						"technique" : "blurhrr"
+					}
+				],
+				"duration" : 20.0,
+				"id" : 91,
+				"motion" : 
+				{
+					"amplitude" : 0.4000000059604645,
+					"class" : "SinusoidMotion",
+					"dir_x" : 1.0,
+					"dir_y" : 0.0,
+					"frequency" : 0.2000000029802322
+				},
+				"refreshRate" : 165.0
+			}
+		},
+		
+		{
+			"observerid" : "if1",
+			"pickedConditionIndex" : 0,
+			"trial" : 
+			{
+				"class" : "SBSTrial",
+				"conditions" : 
+				[
+					
+					{
+						"scene" : "ET_TARGET",
+						"technique" : "full"
+					},
+					
+					{
+						"scene" : "ET_TARGET",
+						"technique" : "blurhrr"
+					}
+				],
+				"duration" : 20.0,
+				"id" : 64,
+				"motion" : 
+				{
+					"amplitude" : 0.4000000059604645,
+					"class" : "SinusoidMotion",
+					"dir_x" : 1.0,
+					"dir_y" : 0.0,
+					"frequency" : 0.2000000029802322
+				},
+				"refreshRate" : 144.0
+			}
+		},
+		
+		{
+			"observerid" : "if1",
+			"pickedConditionIndex" : 0,
+			"trial" : 
+			{
+				"class" : "SBSTrial",
+				"conditions" : 
+				[
+					
+					{
+						"scene" : "ET_TARGET",
+						"technique" : "full"
+					},
+					
+					{
+						"scene" : "ET_TARGET",
+						"technique" : "halfrr"
+					}
+				],
+				"duration" : 20.0,
+				"id" : 54,
+				"motion" : 
+				{
+					"amplitude" : 0.4000000059604645,
+					"class" : "SinusoidMotion",
+					"dir_x" : 1.0,
+					"dir_y" : 0.0,
+					"frequency" : 0.2000000029802322
+				},
+				"refreshRate" : 144.0
+			}
+		},
+		
+		{
+			"observerid" : "if1",
+			"pickedConditionIndex" : 1,
+			"trial" : 
+			{
+				"class" : "SBSTrial",
+				"conditions" : 
+				[
+					
+					{
+						"scene" : "ET_TARGET",
+						"technique" : "blurhrr"
+					},
+					
+					{
+						"scene" : "ET_TARGET",
+						"technique" : "halfrr"
+					}
+				],
+				"duration" : 20.0,
+				"id" : 41,
+				"motion" : 
+				{
+					"amplitudes" : [ 2.0, 2.0, 2.0, 2.0, 2.0, 0.2000000029802322, 0.2000000029802322 ],
+					"class" : "SumSinusoidsMotion",
+					"frequencies" : 
+					[
+						0.1000000014901161,
+						0.1400000005960464,
+						0.2399999946355820,
+						0.4099999964237213,
+						0.7400000095367432,
+						1.279999971389771,
+						2.190000057220459
+					],
+					"gain" : 0.04600000008940697,
+					"phases" : 
+					[
+						2.304672002792358,
+						-3.013796329498291,
+						2.821942090988159,
+						1.803534746170044,
+						1.605262041091919,
+						3.130334615707397,
+						1.198594808578491
+					]
+				},
+				"refreshRate" : 120.0
+			}
+		},
+		
+		{
+			"observerid" : "if1",
+			"pickedConditionIndex" : 1,
+			"trial" : 
+			{
+				"class" : "SBSTrial",
+				"conditions" : 
+				[
+					
+					{
+						"scene" : "DISCS",
+						"technique" : "blurhrr"
+					},
+					
+					{
+						"scene" : "DISCS",
+						"technique" : "halfrr"
+					}
+				],
+				"duration" : 20.0,
+				"id" : 62,
+				"motion" : 
+				{
+					"amplitude" : 0.4000000059604645,
+					"class" : "SinusoidMotion",
+					"dir_x" : 1.0,
+					"dir_y" : 0.0,
+					"frequency" : 0.2000000029802322
+				},
+				"refreshRate" : 144.0
+			}
+		},
+		
+		{
+			"observerid" : "if1",
+			"pickedConditionIndex" : 0,
+			"trial" : 
+			{
+				"class" : "SBSTrial",
+				"conditions" : 
+				[
+					
+					{
+						"scene" : "ET_TARGET",
+						"technique" : "blurhrr"
+					},
+					
+					{
+						"scene" : "ET_TARGET",
+						"technique" : "halfrr"
+					}
+				],
+				"duration" : 20.0,
+				"id" : 77,
+				"motion" : 
+				{
+					"amplitudes" : [ 2.0, 2.0, 2.0, 2.0, 2.0, 0.2000000029802322, 0.2000000029802322 ],
+					"class" : "SumSinusoidsMotion",
+					"frequencies" : 
+					[
+						0.1000000014901161,
+						0.1400000005960464,
+						0.2399999946355820,
+						0.4099999964237213,
+						0.7400000095367432,
+						1.279999971389771,
+						2.190000057220459
+					],
+					"gain" : 0.04600000008940697,
+					"phases" : 
+					[
+						-2.043438434600830,
+						-2.749726772308350,
+						-2.265974998474121,
+						1.527780294418335,
+						2.325741529464722,
+						1.270326375961304,
+						-2.429311990737915
+					]
+				},
+				"refreshRate" : 144.0
+			}
+		},
+		
+		{
+			"observerid" : "if1",
+			"pickedConditionIndex" : 0,
+			"trial" : 
+			{
+				"class" : "SBSTrial",
+				"conditions" : 
+				[
+					
+					{
+						"scene" : "ET_TARGET",
+						"technique" : "blurhrr"
+					},
+					
+					{
+						"scene" : "ET_TARGET",
+						"technique" : "halfrr"
+					}
+				],
+				"duration" : 20.0,
+				"id" : 11,
+				"motion" : 
+				{
+					"amplitude" : 0.4000000059604645,
+					"class" : "SinusoidMotion",
+					"dir_x" : 1.0,
+					"dir_y" : 0.0,
+					"frequency" : 0.2000000029802322
+				},
+				"refreshRate" : 100.0
+			}
+		},
+		
+		{
+			"observerid" : "if1",
+			"pickedConditionIndex" : 0,
+			"trial" : 
+			{
+				"class" : "SBSTrial",
+				"conditions" : 
+				[
+					
+					{
+						"scene" : "ET_TARGET",
+						"technique" : "full"
+					},
+					
+					{
+						"scene" : "ET_TARGET",
+						"technique" : "halfrr"
+					}
+				],
+				"duration" : 20.0,
+				"id" : 21,
+				"motion" : 
+				{
+					"amplitudes" : [ 2.0, 2.0, 2.0, 2.0, 2.0, 0.2000000029802322, 0.2000000029802322 ],
+					"class" : "SumSinusoidsMotion",
+					"frequencies" : 
+					[
+						0.1000000014901161,
+						0.1400000005960464,
+						0.2399999946355820,
+						0.4099999964237213,
+						0.7400000095367432,
+						1.279999971389771,
+						2.190000057220459
+					],
+					"gain" : 0.04600000008940697,
+					"phases" : 
+					[
+						1.907127141952515,
+						-1.907348632812500e-05,
+						-0.2235622406005859,
+						-0.5976405143737793,
+						-2.809841394424438,
+						-0.1040718555450439,
+						2.613474130630493
+					]
+				},
+				"refreshRate" : 100.0
+			}
+		},
+		
+		{
+			"observerid" : "if1",
+			"pickedConditionIndex" : 0,
+			"trial" : 
+			{
+				"class" : "SBSTrial",
+				"conditions" : 
+				[
+					
+					{
+						"scene" : "DISCS",
+						"technique" : "full"
+					},
+					
+					{
+						"scene" : "DISCS",
+						"technique" : "blurhrr"
+					}
+				],
+				"duration" : 20.0,
+				"id" : 43,
+				"motion" : 
+				{
+					"amplitude" : 0.4000000059604645,
+					"class" : "SinusoidMotion",
+					"dir_x" : 1.0,
+					"dir_y" : 0.0,
+					"frequency" : 0.2000000029802322
+				},
+				"refreshRate" : 120.0
+			}
+		},
+		
+		{
+			"observerid" : "if1",
+			"pickedConditionIndex" : 0,
+			"trial" : 
+			{
+				"class" : "SBSTrial",
+				"conditions" : 
+				[
+					
+					{
+						"scene" : "ET_TARGET",
+						"technique" : "full"
+					},
+					
+					{
+						"scene" : "ET_TARGET",
+						"technique" : "blurhrr"
+					}
+				],
+				"duration" : 20.0,
+				"id" : 13,
+				"motion" : 
+				{
+					"amplitudes" : [ 2.0, 2.0, 2.0, 2.0, 2.0, 0.2000000029802322, 0.2000000029802322 ],
+					"class" : "SumSinusoidsMotion",
+					"frequencies" : 
+					[
+						0.1000000014901161,
+						0.1400000005960464,
+						0.2399999946355820,
+						0.4099999964237213,
+						0.7400000095367432,
+						1.279999971389771,
+						2.190000057220459
+					],
+					"gain" : 0.04600000008940697,
+					"phases" : 
+					[
+						-1.150395035743713,
+						0.7417807579040527,
+						-1.684540748596191,
+						-2.628617048263550,
+						2.611047983169556,
+						2.631510019302368,
+						2.407189607620239
+					]
+				},
+				"refreshRate" : 100.0
+			}
+		},
+		
+		{
+			"observerid" : "if1",
+			"pickedConditionIndex" : 0,
+			"trial" : 
+			{
+				"class" : "SBSTrial",
+				"conditions" : 
+				[
+					
+					{
+						"scene" : "ET_TARGET",
+						"technique" : "full"
+					},
+					
+					{
+						"scene" : "ET_TARGET",
+						"technique" : "blurhrr"
+					}
+				],
+				"duration" : 20.0,
+				"id" : 22,
+				"motion" : 
+				{
+					"amplitudes" : [ 2.0, 2.0, 2.0, 2.0, 2.0, 0.2000000029802322, 0.2000000029802322 ],
+					"class" : "SumSinusoidsMotion",
+					"frequencies" : 
+					[
+						0.1000000014901161,
+						0.1400000005960464,
+						0.2399999946355820,
+						0.4099999964237213,
+						0.7400000095367432,
+						1.279999971389771,
+						2.190000057220459
+					],
+					"gain" : 0.04600000008940697,
+					"phases" : 
+					[
+						0.2842912673950195,
+						-1.818354845046997,
+						-2.430144786834717,
+						-1.085017442703247,
+						-0.5398871898651123,
+						0.4328160285949707,
+						-0.3155395984649658
+					]
+				},
+				"refreshRate" : 100.0
+			}
+		},
+		
+		{
+			"observerid" : "if1",
+			"pickedConditionIndex" : 0,
+			"trial" : 
+			{
+				"class" : "SBSTrial",
+				"conditions" : 
+				[
+					
+					{
+						"scene" : "ET_TARGET",
+						"technique" : "full"
+					},
+					
+					{
+						"scene" : "ET_TARGET",
+						"technique" : "blurhrr"
+					}
+				],
+				"duration" : 20.0,
+				"id" : 28,
+				"motion" : 
+				{
+					"amplitude" : 0.4000000059604645,
+					"class" : "SinusoidMotion",
+					"dir_x" : 1.0,
+					"dir_y" : 0.0,
+					"frequency" : 0.2000000029802322
+				},
+				"refreshRate" : 120.0
+			}
+		},
+		
+		{
+			"observerid" : "if1",
+			"pickedConditionIndex" : 1,
+			"trial" : 
+			{
+				"class" : "SBSTrial",
+				"conditions" : 
+				[
+					
+					{
+						"scene" : "DISCS",
+						"technique" : "full"
+					},
+					
+					{
+						"scene" : "DISCS",
+						"technique" : "halfrr"
+					}
+				],
+				"duration" : 20.0,
+				"id" : 78,
+				"motion" : 
+				{
+					"amplitude" : 0.4000000059604645,
+					"class" : "SinusoidMotion",
+					"dir_x" : 1.0,
+					"dir_y" : 0.0,
+					"frequency" : 0.2000000029802322
+				},
+				"refreshRate" : 144.0
+			}
+		},
+		
+		{
+			"observerid" : "if1",
+			"pickedConditionIndex" : 0,
+			"trial" : 
+			{
+				"class" : "SBSTrial",
+				"conditions" : 
+				[
+					
+					{
+						"scene" : "ET_TARGET",
+						"technique" : "full"
+					},
+					
+					{
+						"scene" : "ET_TARGET",
+						"technique" : "blurhrr"
+					}
+				],
+				"duration" : 20.0,
+				"id" : 76,
+				"motion" : 
+				{
+					"amplitudes" : [ 2.0, 2.0, 2.0, 2.0, 2.0, 0.2000000029802322, 0.2000000029802322 ],
+					"class" : "SumSinusoidsMotion",
+					"frequencies" : 
+					[
+						0.1000000014901161,
+						0.1400000005960464,
+						0.2399999946355820,
+						0.4099999964237213,
+						0.7400000095367432,
+						1.279999971389771,
+						2.190000057220459
+					],
+					"gain" : 0.04600000008940697,
+					"phases" : 
+					[
+						-1.322145938873291,
+						-3.046339988708496,
+						2.978913545608521,
+						0.2211949825286865,
+						-0.2748918533325195,
+						-1.531367301940918,
+						0.9625332355499268
+					]
+				},
+				"refreshRate" : 144.0
+			}
+		},
+		
+		{
+			"observerid" : "if1",
+			"pickedConditionIndex" : 0,
+			"trial" : 
+			{
+				"class" : "SBSTrial",
+				"conditions" : 
+				[
+					
+					{
+						"scene" : "DISCS",
+						"technique" : "full"
+					},
+					
+					{
+						"scene" : "DISCS",
+						"technique" : "blurhrr"
+					}
+				],
+				"duration" : 20.0,
+				"id" : 79,
+				"motion" : 
+				{
+					"amplitude" : 0.4000000059604645,
+					"class" : "SinusoidMotion",
+					"dir_x" : 1.0,
+					"dir_y" : 0.0,
+					"frequency" : 0.2000000029802322
+				},
+				"refreshRate" : 144.0
+			}
+		},
+		
+		{
+			"observerid" : "if1",
+			"pickedConditionIndex" : 0,
+			"trial" : 
+			{
+				"class" : "SBSTrial",
+				"conditions" : 
+				[
+					
+					{
+						"scene" : "ET_TARGET",
+						"technique" : "blurhrr"
+					},
+					
+					{
+						"scene" : "ET_TARGET",
+						"technique" : "halfrr"
+					}
+				],
+				"duration" : 20.0,
+				"id" : 92,
+				"motion" : 
+				{
+					"amplitude" : 0.4000000059604645,
+					"class" : "SinusoidMotion",
+					"dir_x" : 1.0,
+					"dir_y" : 0.0,
+					"frequency" : 0.2000000029802322
+				},
+				"refreshRate" : 165.0
+			}
+		},
+		
+		{
+			"observerid" : "if1",
+			"pickedConditionIndex" : 0,
+			"trial" : 
+			{
+				"class" : "SBSTrial",
+				"conditions" : 
+				[
+					
+					{
+						"scene" : "ET_TARGET",
+						"technique" : "full"
+					},
+					
+					{
+						"scene" : "ET_TARGET",
+						"technique" : "halfrr"
+					}
+				],
+				"duration" : 20.0,
+				"id" : 102,
+				"motion" : 
+				{
+					"amplitudes" : [ 2.0, 2.0, 2.0, 2.0, 2.0, 0.2000000029802322, 0.2000000029802322 ],
+					"class" : "SumSinusoidsMotion",
+					"frequencies" : 
+					[
+						0.1000000014901161,
+						0.1400000005960464,
+						0.2399999946355820,
+						0.4099999964237213,
+						0.7400000095367432,
+						1.279999971389771,
+						2.190000057220459
+					],
+					"gain" : 0.04600000008940697,
+					"phases" : 
+					[
+						2.890221357345581,
+						-0.6568875312805176,
+						2.191092252731323,
+						0.4498815536499023,
+						-2.916682720184326,
+						-1.123542547225952,
+						-1.947120904922485
+					]
+				},
+				"refreshRate" : 165.0
+			}
+		},
+		
+		{
+			"observerid" : "if1",
+			"pickedConditionIndex" : 0,
+			"trial" : 
+			{
+				"class" : "SBSTrial",
+				"conditions" : 
+				[
+					
+					{
+						"scene" : "DISCS",
+						"technique" : "full"
+					},
+					
+					{
+						"scene" : "DISCS",
+						"technique" : "blurhrr"
+					}
+				],
+				"duration" : 20.0,
+				"id" : 7,
+				"motion" : 
+				{
+					"amplitude" : 0.4000000059604645,
+					"class" : "SinusoidMotion",
+					"dir_x" : 1.0,
+					"dir_y" : 0.0,
+					"frequency" : 0.2000000029802322
+				},
+				"refreshRate" : 100.0
+			}
+		},
+		
+		{
+			"observerid" : "if1",
+			"pickedConditionIndex" : 0,
+			"trial" : 
+			{
+				"class" : "SBSTrial",
+				"conditions" : 
+				[
+					
+					{
+						"scene" : "ET_TARGET",
+						"technique" : "full"
+					},
+					
+					{
+						"scene" : "ET_TARGET",
+						"technique" : "halfrr"
+					}
+				],
+				"duration" : 20.0,
+				"id" : 30,
+				"motion" : 
+				{
+					"amplitudes" : [ 2.0, 2.0, 2.0, 2.0, 2.0, 0.2000000029802322, 0.2000000029802322 ],
+					"class" : "SumSinusoidsMotion",
+					"frequencies" : 
+					[
+						0.1000000014901161,
+						0.1400000005960464,
+						0.2399999946355820,
+						0.4099999964237213,
+						0.7400000095367432,
+						1.279999971389771,
+						2.190000057220459
+					],
+					"gain" : 0.04600000008940697,
+					"phases" : 
+					[
+						-1.316588163375854,
+						-1.352472424507141,
+						-2.573256015777588,
+						-1.143124461174011,
+						-0.2022275924682617,
+						-1.795917510986328,
+						-2.637227535247803
+					]
+				},
+				"refreshRate" : 120.0
+			}
+		},
+		
+		{
+			"observerid" : "if1",
+			"pickedConditionIndex" : 0,
+			"trial" : 
+			{
+				"class" : "SBSTrial",
+				"conditions" : 
+				[
+					
+					{
+						"scene" : "DISCS",
+						"technique" : "blurhrr"
+					},
+					
+					{
+						"scene" : "DISCS",
+						"technique" : "halfrr"
+					}
+				],
+				"duration" : 20.0,
+				"id" : 35,
+				"motion" : 
+				{
+					"amplitude" : 0.4000000059604645,
+					"class" : "SinusoidMotion",
+					"dir_x" : 1.0,
+					"dir_y" : 0.0,
+					"frequency" : 0.2000000029802322
+				},
+				"refreshRate" : 120.0
+			}
+		},
+		
+		{
+			"observerid" : "if1",
+			"pickedConditionIndex" : 0,
+			"trial" : 
+			{
+				"class" : "SBSTrial",
+				"conditions" : 
+				[
+					
+					{
+						"scene" : "ET_TARGET",
+						"technique" : "blurhrr"
+					},
+					
+					{
+						"scene" : "ET_TARGET",
+						"technique" : "halfrr"
+					}
+				],
+				"duration" : 20.0,
+				"id" : 74,
+				"motion" : 
+				{
+					"amplitude" : 0.4000000059604645,
+					"class" : "SinusoidMotion",
+					"dir_x" : 1.0,
+					"dir_y" : 0.0,
+					"frequency" : 0.2000000029802322
+				},
+				"refreshRate" : 144.0
+			}
+		},
+		
+		{
+			"observerid" : "if1",
+			"pickedConditionIndex" : 0,
+			"trial" : 
+			{
+				"class" : "SBSTrial",
+				"conditions" : 
+				[
+					
+					{
+						"scene" : "ET_TARGET",
+						"technique" : "blurhrr"
+					},
+					
+					{
+						"scene" : "ET_TARGET",
+						"technique" : "halfrr"
+					}
+				],
+				"duration" : 20.0,
+				"id" : 32,
+				"motion" : 
+				{
+					"amplitudes" : [ 2.0, 2.0, 2.0, 2.0, 2.0, 0.2000000029802322, 0.2000000029802322 ],
+					"class" : "SumSinusoidsMotion",
+					"frequencies" : 
+					[
+						0.1000000014901161,
+						0.1400000005960464,
+						0.2399999946355820,
+						0.4099999964237213,
+						0.7400000095367432,
+						1.279999971389771,
+						2.190000057220459
+					],
+					"gain" : 0.04600000008940697,
+					"phases" : 
+					[
+						-2.896161079406738,
+						2.173478841781616,
+						-2.524168491363525,
+						1.894890069961548,
+						2.385303258895874,
+						-1.891157984733582,
+						-1.029100894927979
+					]
+				},
+				"refreshRate" : 120.0
+			}
+		},
+		
+		{
+			"observerid" : "if1",
+			"pickedConditionIndex" : 0,
+			"trial" : 
+			{
+				"class" : "SBSTrial",
+				"conditions" : 
+				[
+					
+					{
+						"scene" : "ET_TARGET",
+						"technique" : "full"
+					},
+					
+					{
+						"scene" : "ET_TARGET",
+						"technique" : "halfrr"
+					}
+				],
+				"duration" : 20.0,
+				"id" : 66,
+				"motion" : 
+				{
+					"amplitudes" : [ 2.0, 2.0, 2.0, 2.0, 2.0, 0.2000000029802322, 0.2000000029802322 ],
+					"class" : "SumSinusoidsMotion",
+					"frequencies" : 
+					[
+						0.1000000014901161,
+						0.1400000005960464,
+						0.2399999946355820,
+						0.4099999964237213,
+						0.7400000095367432,
+						1.279999971389771,
+						2.190000057220459
+					],
+					"gain" : 0.04600000008940697,
+					"phases" : 
+					[
+						1.813584089279175,
+						1.935173749923706,
+						2.920003652572632,
+						2.573614835739136,
+						1.432768583297729,
+						-2.970490455627441,
+						0.4039027690887451
+					]
+				},
+				"refreshRate" : 144.0
+			}
+		}
+	]
+}

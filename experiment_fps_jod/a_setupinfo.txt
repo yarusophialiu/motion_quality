@@ -1,0 +1,12 @@
+Experiment setup:
+2 ASUS ROG Swift PG279Q 27 Inch WQHD Gaming Monitors
+2560 x 1440, IPS
+
+physical monitor size: 59.8cm x 33.7cm
+
+
+viewing distance: ~110cm
+
+horizontal field of view: 30 degrees
+pixels per degree: 85
+

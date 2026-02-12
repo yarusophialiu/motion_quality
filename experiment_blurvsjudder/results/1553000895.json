@@ -1,0 +1,324 @@
+
+{
+	"recordings" : 
+	[
+		
+		{
+			"observerid" : "gd355",
+			"pickedConditionIndex" : 0,
+			"trial" : 
+			{
+				"class" : "SBSTrial",
+				"conditions" : 
+				[
+					
+					{
+						"scene" : "ET_TARGET",
+						"technique" : "full"
+					},
+					
+					{
+						"scene" : "ET_TARGET",
+						"technique" : "halfrr"
+					}
+				],
+				"duration" : 20.0,
+				"id" : 48,
+				"motion" : 
+				{
+					"amplitudes" : [ 2.0, 2.0, 2.0, 2.0, 2.0, 0.2000000029802322, 0.2000000029802322 ],
+					"class" : "SumSinusoidsMotion",
+					"frequencies" : 
+					[
+						0.1000000014901161,
+						0.1400000005960464,
+						0.2399999946355820,
+						0.4099999964237213,
+						0.7400000095367432,
+						1.279999971389771,
+						2.190000057220459
+					],
+					"gain" : 0.04600000008940697,
+					"phases" : 
+					[
+						-1.569186210632324,
+						0.8895928859710693,
+						-1.610135197639465,
+						-1.303416132926941,
+						1.005043745040894,
+						-0.6782124042510986,
+						0.7316474914550781
+					]
+				},
+				"refreshRate" : 120.0
+			}
+		},
+		
+		{
+			"observerid" : "gd355",
+			"pickedConditionIndex" : 0,
+			"trial" : 
+			{
+				"class" : "SBSTrial",
+				"conditions" : 
+				[
+					
+					{
+						"scene" : "ET_TARGET",
+						"technique" : "blurhrr"
+					},
+					
+					{
+						"scene" : "ET_TARGET",
+						"technique" : "halfrr"
+					}
+				],
+				"duration" : 20.0,
+				"id" : 2,
+				"motion" : 
+				{
+					"amplitude" : 0.4000000059604645,
+					"class" : "SinusoidMotion",
+					"dir_x" : 1.0,
+					"dir_y" : 0.0,
+					"frequency" : 0.2000000029802322
+				},
+				"refreshRate" : 100.0
+			}
+		},
+		
+		{
+			"observerid" : "gd355",
+			"pickedConditionIndex" : 0,
+			"trial" : 
+			{
+				"class" : "SBSTrial",
+				"conditions" : 
+				[
+					
+					{
+						"scene" : "ET_TARGET",
+						"technique" : "full"
+					},
+					
+					{
+						"scene" : "ET_TARGET",
+						"technique" : "halfrr"
+					}
+				],
+				"duration" : 20.0,
+				"id" : 9,
+				"motion" : 
+				{
+					"amplitude" : 0.4000000059604645,
+					"class" : "SinusoidMotion",
+					"dir_x" : 1.0,
+					"dir_y" : 0.0,
+					"frequency" : 0.2000000029802322
+				},
+				"refreshRate" : 100.0
+			}
+		},
+		
+		{
+			"observerid" : "gd355",
+			"pickedConditionIndex" : 0,
+			"trial" : 
+			{
+				"class" : "SBSTrial",
+				"conditions" : 
+				[
+					
+					{
+						"scene" : "ET_TARGET",
+						"technique" : "blurhrr"
+					},
+					
+					{
+						"scene" : "ET_TARGET",
+						"technique" : "halfrr"
+					}
+				],
+				"duration" : 20.0,
+				"id" : 104,
+				"motion" : 
+				{
+					"amplitudes" : [ 2.0, 2.0, 2.0, 2.0, 2.0, 0.2000000029802322, 0.2000000029802322 ],
+					"class" : "SumSinusoidsMotion",
+					"frequencies" : 
+					[
+						0.1000000014901161,
+						0.1400000005960464,
+						0.2399999946355820,
+						0.4099999964237213,
+						0.7400000095367432,
+						1.279999971389771,
+						2.190000057220459
+					],
+					"gain" : 0.04600000008940697,
+					"phases" : 
+					[
+						-1.569186210632324,
+						0.8895928859710693,
+						-1.610135197639465,
+						-1.303416132926941,
+						1.005043745040894,
+						-0.6782124042510986,
+						0.7316474914550781
+					]
+				},
+				"refreshRate" : 165.0
+			}
+		},
+		
+		{
+			"observerid" : "gd355",
+			"pickedConditionIndex" : 0,
+			"trial" : 
+			{
+				"class" : "SBSTrial",
+				"conditions" : 
+				[
+					
+					{
+						"scene" : "DISCS",
+						"technique" : "full"
+					},
+					
+					{
+						"scene" : "DISCS",
+						"technique" : "halfrr"
+					}
+				],
+				"duration" : 20.0,
+				"id" : 105,
+				"motion" : 
+				{
+					"amplitude" : 0.4000000059604645,
+					"class" : "SinusoidMotion",
+					"dir_x" : 1.0,
+					"dir_y" : 0.0,
+					"frequency" : 0.2000000029802322
+				},
+				"refreshRate" : 165.0
+			}
+		},
+		
+		{
+			"observerid" : "gd355",
+			"pickedConditionIndex" : 1,
+			"trial" : 
+			{
+				"class" : "SBSTrial",
+				"conditions" : 
+				[
+					
+					{
+						"scene" : "ET_TARGET",
+						"technique" : "full"
+					},
+					
+					{
+						"scene" : "ET_TARGET",
+						"technique" : "blurhrr"
+					}
+				],
+				"duration" : 20.0,
+				"id" : 91,
+				"motion" : 
+				{
+					"amplitude" : 0.4000000059604645,
+					"class" : "SinusoidMotion",
+					"dir_x" : 1.0,
+					"dir_y" : 0.0,
+					"frequency" : 0.2000000029802322
+				},
+				"refreshRate" : 165.0
+			}
+		},
+		
+		{
+			"observerid" : "gd355",
+			"pickedConditionIndex" : 0,
+			"trial" : 
+			{
+				"class" : "SBSTrial",
+				"conditions" : 
+				[
+					
+					{
+						"scene" : "ET_TARGET",
+						"technique" : "blurhrr"
+					},
+					
+					{
+						"scene" : "ET_TARGET",
+						"technique" : "halfrr"
+					}
+				],
+				"duration" : 20.0,
+				"id" : 14,
+				"motion" : 
+				{
+					"amplitudes" : [ 2.0, 2.0, 2.0, 2.0, 2.0, 0.2000000029802322, 0.2000000029802322 ],
+					"class" : "SumSinusoidsMotion",
+					"frequencies" : 
+					[
+						0.1000000014901161,
+						0.1400000005960464,
+						0.2399999946355820,
+						0.4099999964237213,
+						0.7400000095367432,
+						1.279999971389771,
+						2.190000057220459
+					],
+					"gain" : 0.04600000008940697,
+					"phases" : 
+					[
+						-1.569186210632324,
+						0.8895928859710693,
+						-1.610135197639465,
+						-1.303416132926941,
+						1.005043745040894,
+						-0.6782124042510986,
+						0.7316474914550781
+					]
+				},
+				"refreshRate" : 100.0
+			}
+		},
+		
+		{
+			"observerid" : "gd355",
+			"pickedConditionIndex" : 0,
+			"trial" : 
+			{
+				"class" : "SBSTrial",
+				"conditions" : 
+				[
+					
+					{
+						"scene" : "DISCS",
+						"technique" : "full"
+					},
+					
+					{
+						"scene" : "DISCS",
+						"technique" : "halfrr"
+					}
+				],
+				"duration" : 20.0,
+				"id" : 60,
+				"motion" : 
+				{
+					"amplitude" : 0.4000000059604645,
+					"class" : "SinusoidMotion",
+					"dir_x" : 1.0,
+					"dir_y" : 0.0,
+					"frequency" : 0.2000000029802322
+				},
+				"refreshRate" : 144.0
+			}
+		}
+	]
+}

@@ -1,0 +1,21 @@
+
+{
+	"recordings" : 
+	[
+		
+		{
+			"observerid" : "test",
+			"trial" : 
+			{
+				"amplitude" : 0.4000000059604645,
+				"class" : "SinusoidExperimentTrial",
+				"dir_x" : 1.0,
+				"dir_y" : 0.0,
+				"duration" : 15.0,
+				"frequency" : 0.2000000029802322,
+				"id" : 16,
+				"refreshRate" : 55.0
+			}
+		}
+	]
+}

@@ -1,0 +1,120 @@
+{
+  "stimuli": [
+    {
+      "class": "DISCS",
+      "duration": 20,
+      "param": "",
+      "motion": {
+        "class": "SinusoidMotion",
+        "amplitude": 0.4,
+        "frequency": 0.2,
+        "dir_x": 1,
+        "dir_y": 0
+      },
+      "id": 0
+    },
+    {
+      "class": "DISCS",
+      "duration": 20,
+      "param": "",
+      "motion": {
+        "class": "SinusoidMotion",
+        "amplitude": 0.4,
+        "frequency": 0.4,
+        "dir_x": 1,
+        "dir_y": 0
+      },
+      "id": 1
+    },
+    {
+      "class": "DISCS",
+      "duration": 20,
+      "param": "",
+      "motion": {
+        "class": "SinusoidMotion",
+        "amplitude": 0.4,
+        "frequency": 0.6000000000000001,
+        "dir_x": 1,
+        "dir_y": 0
+      },
+      "id": 2
+    },
+    {
+      "class": "ET_TARGET",
+      "duration": 20,
+      "param": "",
+      "motion": {
+        "class": "SinusoidMotion",
+        "amplitude": 0.4,
+        "frequency": 0.2,
+        "dir_x": 1,
+        "dir_y": 0
+      },
+      "id": 3
+    },
+    {
+      "class": "ET_TARGET",
+      "duration": 20,
+      "param": "",
+      "motion": {
+        "class": "SumSinusoidsMotion",
+        "gain": 0.046,
+        "frequencies": [
+          0.1,
+          0.14,
+          0.24,
+          0.41,
+          0.74,
+          1.28,
+          2.19
+        ],
+        "amplitudes": [
+          2,
+          2,
+          2,
+          2,
+          2,
+          0.2,
+          0.2
+        ],
+        "phases": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      "id": 4
+    },
+    {
+      "class": "TEXT",
+      "duration": 20,
+      "param": "",
+      "motion": {
+        "class": "SinusoidMotion",
+        "amplitude": 0.4,
+        "frequency": 0.2,
+        "dir_x": 1,
+        "dir_y": 0
+      },
+      "id": 5
+    },
+    {
+      "class": "PANORAMA",
+      "duration": 20,
+      "param": "tery",
+      "motion": {
+        "class": "StepsMotion",
+        "va": 0.25,
+        "ta": 1,
+        "dir_x": 1,
+        "dir_y": 0
+      },
+      "id": 6
+    }
+  ],
+  "name": "Initial"
+}
