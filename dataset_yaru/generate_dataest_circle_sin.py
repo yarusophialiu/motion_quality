@@ -4,12 +4,12 @@ from pathlib import Path
 from PIL import Image
 from utils import encode_lossless_h265_mp4
 
-
 import math
 import subprocess
 import shutil
 from pathlib import Path
 from PIL import Image
+
 
 # 1. 实验基本参数 (基于 ASUS PG279Q)
 W_ORIGINAL = 2560
@@ -19,15 +19,26 @@ PPD = W_ORIGINAL / FOV_DEG  # 约 85.33
 
 # 2. 运动条件与刷新率列表
 conditions = {
-    "condition_a_v15": 15.0,
-    "condition_b_v30": 30.0,
+    # "condition_a_v15": 15.0,
+    # "condition_b_v30": 30.0,
     "condition_c_v45": 45.0,
 }
-# fps_list = list(range(50, 76, 5)) # 166
-fps_list = [167] # reference
+
+cycles_conditions = {
+    # "condition_a_v15": 15.0,
+    # "condition_b_v30": 2.0,
+    "condition_c_v45": 3.0,
+}
+
+
+# fps_list = list(range(50, 76, 5)) + [167] # 166
+fps_list = list(range(120, 166, 5))# 166
+# fps_list = [50] # reference
 
 # 3. 安全振幅：确保圆圈完全留在 30度 视场内 (-15度 到 +15度)
 A_DEG = 12.0 
+duration = 5.0
+
 
 def main():
     out_root = Path("dataset_exp1_abc")
@@ -48,8 +59,9 @@ def main():
         
         # 计算该速度下的频率: f0 = v_max / (2 * pi * A)
         f0 = v_max / (2.0 * math.pi * A_DEG)
-        duration = 1.0 / f0  # 正好 1 个周期
-        
+        n_cycles = cycles_conditions[cond_name]  # 设置循环次数
+        duration = n_cycles / f0  # 计算 n_cycles 个周期所需的总时间
+        print(f'\ncycles is {n_cycles}, duration is {duration} s')
         print(f"\nProcessing {cond_name} (v_max={v_max} deg/s, f0={f0:.4f} Hz)")
 
         for fps in fps_list:

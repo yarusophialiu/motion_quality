@@ -3,6 +3,7 @@ import subprocess
 import shutil
 from pathlib import Path
 from PIL import Image
+from utils import encode_lossless_h265_mp4
 
 # 1. 实验基本参数
 W_SCREEN = 2560
@@ -10,21 +11,14 @@ H_SCREEN = 720   # 修改这里：高度直接匹配图片高度
 FOV_DEG = 30.0
 PPD = W_SCREEN / FOV_DEG
 DURATION = 5.0   # 视频时长
-FPS_LIST = list(range(50, 55, 5))
+# FPS_LIST = list(range(145, 166, 5)) + [167]
+FPS_LIST = [631]
 
 def soft_staircase(t):
-    """论文 4.1.2 运动方程 (Condition f)"""
-    if t == 0: return 0.0
+    """sec 4.1.2 (Condition f)"""
+    if t == 0: return 15 # limit of sin(2πt)/(2πt) + t as t→0
     return 15.0 * (math.sin(2.0 * math.pi * t) / (2.0 * math.pi * t) + t)
 
-def encode_lossless_h265_mp4(frames_dir, fps, out_path):
-    cmd = [
-        "ffmpeg", "-y", "-framerate", str(fps),
-        "-i", str(frames_dir / "%06d.png"),
-        "-c:v", "libx265", "-x265-params", "lossless=1",
-        "-pix_fmt", "yuv444p", str(out_path)
-    ]
-    subprocess.run(cmd, check=True)
 
 def main():
     out_root = Path("dataset_exp1_f_panorama_720p")
